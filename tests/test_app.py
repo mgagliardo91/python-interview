@@ -1,12 +1,20 @@
+from os.path import dirname, join
+from typing import List
+
+from yaml import FullLoader, load
+
 from app import __version__
 from app.controllers.facility import get_facility_spend_rollup, get_meters
 from app.controllers.meters import get_energy_spend
-from app.services.meters import Meter
-from app.services.metrics import Metric, get_energy_rate, get_energy_usage
+from app.services.meters import Meter, get_meters_for_facility
+from app.services.metrics import Metric
 
 facility_id = "123"
 start_date = "2020-08-01"
-end_date = "2020-08-02"
+end_date = "2020-08-03"
+
+output_file = open(join(dirname(__file__), "../fixtures", "output.yaml"), "r")
+output = load(output_file, Loader=FullLoader)
 
 
 def test_version():
@@ -25,20 +33,20 @@ def test_facility_meters():
 
 
 def test_meter_energy_spend():
-    rate = get_energy_rate(facility_id, start_date, end_date)
-    usage = get_energy_usage(facility_id, start_date, end_date)
+    meters = get_meters_for_facility(facility_id)
 
-    def assert_metric(index: int, metric: Metric):
-        assert metric.label == "energy_spend"
-        assert metric.timestamp == rate[index].timestamp
-        assert metric.value == rate[index].value * usage[index].value
+    def assert_metrics(meterId: str, metrics: List[Metric]):
+        cached = output["meter_spend"][meterId]
+        assert len(metrics) == len(cached)
+        for i, m in enumerate(metrics):
+            assert m.value == cached[i]["value"]
 
-    [
-        assert_metric(i, m)
-        for (i, m) in enumerate(get_energy_spend(facility_id, start_date, end_date))
-    ]
+    meter_spends = {meter.id: get_energy_spend(meter.id, start_date, end_date) for meter in meters}
+
+    [assert_metrics(meterId, metrics) for (meterId, metrics) in meter_spends.items()]
 
 
 def test_facility_rollup():
     facility_spend = get_facility_spend_rollup(facility_id, start_date, end_date)
     assert facility_spend is not None
+    assert facility_spend == output["facility_spend"]

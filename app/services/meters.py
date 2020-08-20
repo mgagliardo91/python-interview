@@ -17,6 +17,10 @@ class Meter:
 facilityCache: Dict[str, List[Meter]] = {}
 
 
+def initialize(meterCache):
+    facilityCache["123"] = [Meter(**r) for r in meterCache]
+
+
 def get_meters_for_facility(facility_id: str) -> List[Meter]:
     if facility_id not in facilityCache:
         meters = [

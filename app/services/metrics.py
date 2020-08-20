@@ -31,6 +31,14 @@ energyRateCache: Dict[str, List[BlendedRateMetric]] = {}
 energyUsageCache: Dict[str, List[ElectricUsageMetric]] = {}
 
 
+def initialize(rateCache, usageCache):
+    for meter_id, metrics in rateCache.items():
+        energyRateCache[meter_id] = [BlendedRateMetric(**m) for m in metrics]
+
+    for meter_id, metrics in usageCache.items():
+        energyUsageCache[meter_id] = [ElectricUsageMetric(**m) for m in metrics]
+
+
 def get_energy_rate(meter_id: str, start_date: str, end_date: str) -> List[BlendedRateMetric]:
     if meter_id not in energyRateCache:
         metrics = [
@@ -48,7 +56,7 @@ def get_energy_rate(meter_id: str, start_date: str, end_date: str) -> List[Blend
 
 
 def get_energy_usage(meter_id: str, start_date: str, end_date: str) -> List[ElectricUsageMetric]:
-    if not meter_id not in energyUsageCache:
+    if meter_id not in energyUsageCache:
         metrics = [
             ElectricUsageMetric(
                 id=str(uuid.uuid4()),

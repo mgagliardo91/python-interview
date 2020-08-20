@@ -1,0 +1,4922 @@
+facility_spend: 3094913.9
+meter_spend:
+  0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78:
+  - id: 6edc7108-cf19-4161-8156-f8a29f2518a1
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 00:00:00
+    value: 3275.7
+  - id: 060117f5-d802-4f31-b78e-3585753e7ec6
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 01:00:00
+    value: 3684.6000000000004
+  - id: 20ae389e-3c7a-42eb-b5cb-b6cd6c5d20f1
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 02:00:00
+    value: 3353.4
+  - id: 4acfb9c3-e870-402b-be3d-db40bcdcc166
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 03:00:00
+    value: 3157.8
+  - id: 67b12349-16a3-4b55-a5a1-51f9b7704be9
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 04:00:00
+    value: 3320.7999999999997
+  - id: 3f652a51-19d9-4b94-afcb-920482ed637e
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 05:00:00
+    value: 3465.0
+  - id: 0c40aad9-d5ce-43c0-80bc-c76523317ec2
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 06:00:00
+    value: 2836.5
+  - id: ed9a1c95-d387-4bbf-baf1-58c194fa8733
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 07:00:00
+    value: 2580.0
+  - id: 5eb12911-48e5-407d-940e-3df28bceae31
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 08:00:00
+    value: 2290.0
+  - id: 2047d7b9-a10f-450c-8f17-5a76ea28ad4f
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 09:00:00
+    value: 3234.6000000000004
+  - id: ec17a234-d6c7-46ee-8c4f-b77eca38c120
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 10:00:00
+    value: 3323.2000000000003
+  - id: 5f158e53-1ac3-414d-a8b2-c603dcb96639
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 11:00:00
+    value: 2958.0
+  - id: 01d97bdc-fcef-4e15-aabd-701a99c063a2
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 12:00:00
+    value: 2781.6
+  - id: b378d68f-fe73-4633-a331-c9965e65b3e1
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 13:00:00
+    value: 3412.2
+  - id: f4950821-4d53-49bf-969e-d7f581bc2699
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 14:00:00
+    value: 2788.5
+  - id: 58413d20-c95d-4d1c-b900-5eee23a5d820
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 15:00:00
+    value: 3732.9
+  - id: 8be4b98c-771c-4368-bc5d-751cedfa7dd6
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 16:00:00
+    value: 2836.2
+  - id: 3efe5330-73ec-4188-af75-a23fad621d9b
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 17:00:00
+    value: 3532.8
+  - id: 18eb4d73-9a84-4961-b380-218fc420d4ac
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 18:00:00
+    value: 2891.7
+  - id: c9d57b13-71d3-4c54-bca6-dc6ae07de810
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 19:00:00
+    value: 2787.7999999999997
+  - id: a1509828-d0fc-4439-9994-4eea166b363d
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 20:00:00
+    value: 3546.0
+  - id: fc7065fa-4523-45d1-bd32-696e4ff763c5
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 21:00:00
+    value: 2898.0
+  - id: 075213f7-2bf1-47d4-abd2-f54c2a33b916
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 22:00:00
+    value: 3395.7
+  - id: c0eca5c5-964f-4191-bf99-77df010e6bb1
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-01 23:00:00
+    value: 2856.7
+  - id: 58dfc618-1466-42ec-97ca-dfb2d8395ec6
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 00:00:00
+    value: 2764.2
+  - id: dfe7d731-2e29-45d7-8b13-83c91dd27e03
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 01:00:00
+    value: 3227.3999999999996
+  - id: cc0daaf9-d8d8-4329-ae14-a72f73ddd627
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 02:00:00
+    value: 4002.0
+  - id: 56760e02-44eb-45b6-9e5b-61d8b19a39b2
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 03:00:00
+    value: 3397.2000000000003
+  - id: b4cb3bc2-653a-40e3-b159-3fca50c93006
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 04:00:00
+    value: 3594.5
+  - id: 968553ef-b4f7-4fe4-aa89-752ae5dd7542
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 05:00:00
+    value: 3300.2
+  - id: 874b6b09-6df6-4369-99cd-89f9ac92bf68
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 06:00:00
+    value: 3242.2
+  - id: 66fdff89-5006-4a46-b1b5-e180147daa4a
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 07:00:00
+    value: 2718.0
+  - id: 4b814dbd-a8dc-4e7d-80ac-b67dd1264a3a
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 08:00:00
+    value: 3024.0
+  - id: 3764c690-ac3a-4313-9378-a1e798e7683d
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 09:00:00
+    value: 3213.2
+  - id: 15208a3a-95e4-438f-8a4c-f9076bdf8578
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 10:00:00
+    value: 2521.8
+  - id: 3f00abf2-6f70-4b35-8f46-8a07494b9e52
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 11:00:00
+    value: 3194.7000000000003
+  - id: 6860c541-d11c-4890-a6e5-608974c5d2de
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 12:00:00
+    value: 3670.8
+  - id: 687f623a-f245-4506-ad28-2856087473cf
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 13:00:00
+    value: 3861.0
+  - id: 472e7e86-d007-45fb-86ba-6216ac13e7e1
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 14:00:00
+    value: 2509.2
+  - id: 63ba391f-d6ea-4f96-8768-a8115b703c05
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 15:00:00
+    value: 3553.5
+  - id: 3fe31cc2-21ba-4812-90c3-e49ef93d2986
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 16:00:00
+    value: 2714.4
+  - id: 97f9c2e5-c741-411a-8ca0-dc1d895f2b45
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 17:00:00
+    value: 3256.2000000000003
+  - id: d4d6cecc-e33c-4cea-a95e-826fdf274574
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 18:00:00
+    value: 2597.0
+  - id: c98aa0aa-e00e-4fb1-9a83-7c72d0a818e3
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 19:00:00
+    value: 2985.4
+  - id: 696a0333-d22b-4eff-b238-70b3d3b2d5cc
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 20:00:00
+    value: 2592.7999999999997
+  - id: a71e991d-f299-49a8-8383-97b9d3ae61b6
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 21:00:00
+    value: 4109.0
+  - id: fae604f7-adeb-45eb-8042-a86f51564236
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 22:00:00
+    value: 2830.3999999999996
+  - id: 1a8534b7-b615-4c4d-a1c3-41f6b0c5f25b
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-02 23:00:00
+    value: 2830.4
+  - id: 06a382f4-75df-4dec-bebf-ff99ea79e004
+    label: energy_spend
+    meter_id: 0c5e0ad1-2f4e-4bdf-b97c-97a7fecd4f78
+    timestamp: 2020-08-03 00:00:00
+    value: 3410.0
+  10329ef7-8f8b-4af6-a89b-163dd7f2be37:
+  - id: dcd5b86f-7fb7-462b-904a-df53f7eafc9a
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 00:00:00
+    value: 2769.2999999999997
+  - id: 8ad2c1fb-3982-474d-abdb-e4e6d7b5b2e9
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 01:00:00
+    value: 3169.1
+  - id: a661e210-9003-41ec-a059-453f6da97a10
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 02:00:00
+    value: 3209.6
+  - id: 95285e95-00f0-4d5d-9282-cabdbc99945c
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 03:00:00
+    value: 3150.6000000000004
+  - id: 3a9bc978-192a-40d0-b245-0360ec680780
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 04:00:00
+    value: 3068.6
+  - id: 413da900-11c6-42a0-a5cb-ee26aa04dc1d
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 05:00:00
+    value: 3217.5
+  - id: 0e7676cd-938e-4a10-8cf4-45bd24b3dfa0
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 06:00:00
+    value: 3052.8
+  - id: 4ee26ba0-43ab-4642-857b-bdd27dc84aa7
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 07:00:00
+    value: 3326.4
+  - id: b54300e7-3c39-48b3-ae41-35f11f5d18cd
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 08:00:00
+    value: 3036.0
+  - id: 10274afc-d7c3-42cf-9d04-bb4be997e079
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 09:00:00
+    value: 3718.0
+  - id: 536e3a72-5904-4631-991d-817f08fdbc87
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 10:00:00
+    value: 2748.8999999999996
+  - id: 6b776496-500f-4d82-baf5-81a405faa7f8
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 11:00:00
+    value: 3705.0
+  - id: caf261a5-4077-44f1-b9ae-ed4dc702107f
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 12:00:00
+    value: 2891.3999999999996
+  - id: 8f402c09-4288-462d-980a-414f246d9166
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 13:00:00
+    value: 2673.0
+  - id: b08cd21b-52b1-46bf-8a58-856b47ef045b
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 14:00:00
+    value: 3087.2
+  - id: 9a1c97e1-c03a-4ca6-9b4e-6e598222a1ea
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 15:00:00
+    value: 3105.9
+  - id: fdf63878-3a84-4a11-a3ac-885792fc7bf0
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 16:00:00
+    value: 3187.7999999999997
+  - id: 9010999e-51a5-42db-9fdc-9fff5869b0aa
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 17:00:00
+    value: 3097.5
+  - id: f331015c-6947-4e74-8f11-87f99e05b921
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 18:00:00
+    value: 3044.4
+  - id: 93b5b7ef-7ffe-41c0-a4c6-ac3a2d1589a1
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 19:00:00
+    value: 3069.0
+  - id: b9915120-692c-4b55-8aae-8cd5452fc28c
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 20:00:00
+    value: 2763.2999999999997
+  - id: bd164a46-e8cc-462e-a06e-39ec540069f4
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 21:00:00
+    value: 2922.0
+  - id: d97328d8-c345-49c4-940b-5af7c6f35062
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 22:00:00
+    value: 3489.2
+  - id: 587a17da-4022-4901-8b31-54e62079960a
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-01 23:00:00
+    value: 3158.7999999999997
+  - id: 43ed2fe3-05fa-401d-b5fe-1aecbaada43e
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 00:00:00
+    value: 2896.4
+  - id: 5ad7970d-cc46-4a0e-912f-97b3b6ecf2d1
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 01:00:00
+    value: 3263.4
+  - id: 3fece739-cda2-4bd5-960f-394fd8788faf
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 02:00:00
+    value: 3107.6
+  - id: 222ecc97-3b06-4be1-9722-c788a3269e6e
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 03:00:00
+    value: 3712.7999999999997
+  - id: 2fdcf1a6-55f7-4938-8e43-cd5937113189
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 04:00:00
+    value: 3603.6
+  - id: c2a348f7-4684-4899-8c82-91f9e501f3ba
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 05:00:00
+    value: 3324.0
+  - id: 72303aed-6344-42d0-8dc9-6d25566b12d2
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 06:00:00
+    value: 3296.4
+  - id: ba12be69-7616-473c-a68f-39bd1d34a455
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 07:00:00
+    value: 3524.2000000000003
+  - id: 201f2859-669c-4c9a-8f30-1eb2eac7ddf4
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 08:00:00
+    value: 2860.0
+  - id: bc835fac-f217-40f8-839b-61106c31517d
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 09:00:00
+    value: 3063.5
+  - id: b53930cf-7082-4d32-9408-b657f703007d
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 10:00:00
+    value: 3003.0
+  - id: 069952e7-7bb7-4577-b600-66eca969d423
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 11:00:00
+    value: 3161.0
+  - id: f66ce7b4-1070-4905-b5e6-c58b2ed2a4d4
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 12:00:00
+    value: 2702.7999999999997
+  - id: 96f2a4a3-c602-4194-b825-b229154a5610
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 13:00:00
+    value: 3653.0
+  - id: 7533496d-a657-4fcd-b5a7-b0ff805e14b2
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 14:00:00
+    value: 3530.9
+  - id: 85835760-0dc3-421b-82b7-a5e2b05c0c4a
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 15:00:00
+    value: 3269.6
+  - id: dc51e670-c48a-4fa7-99fb-76a6f54cfbbc
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 16:00:00
+    value: 3027.6
+  - id: 427196f2-089a-4383-996e-364dd3e97376
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 17:00:00
+    value: 3250.9
+  - id: b092dc33-ecd4-4a04-955c-1aeaab96df00
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 18:00:00
+    value: 3186.0
+  - id: 2dab227c-7b58-42d1-8b0d-3411efd2803a
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 19:00:00
+    value: 2947.7999999999997
+  - id: 45ed5f03-8eb8-486e-814b-fed0eaa1644c
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 20:00:00
+    value: 2745.4
+  - id: 253cbb3f-39cc-4451-ad62-3057dc2f525d
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 21:00:00
+    value: 2665.9
+  - id: 2bba7ac0-8c09-47c0-af4b-7ea4debc5eb8
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 22:00:00
+    value: 3458.7
+  - id: 8874a5d9-bef5-43ca-a1a3-be2fa23e4534
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-02 23:00:00
+    value: 3840.0
+  - id: eddcfb36-3fea-40a0-abdf-eaea25d73a6f
+    label: energy_spend
+    meter_id: 10329ef7-8f8b-4af6-a89b-163dd7f2be37
+    timestamp: 2020-08-03 00:00:00
+    value: 2941.2000000000003
+  11474ebc-f958-47b5-8b64-b0ea7be5f71f:
+  - id: db5fd3d4-9be4-495d-b4bb-60e0532af0c9
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 00:00:00
+    value: 3780.0
+  - id: bc47e1a5-47bf-4487-ab4a-6a06e0f4e0df
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 01:00:00
+    value: 3081.0
+  - id: 86d05179-f1c9-4281-9904-da1427b8a378
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 02:00:00
+    value: 2914.0
+  - id: 91e2fbd3-371d-4adc-8440-36cda98691f9
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 03:00:00
+    value: 3209.3
+  - id: b37ba1b6-e0ba-4549-b11d-eb197f16989b
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 04:00:00
+    value: 3292.7999999999997
+  - id: c6bb349b-ea50-4e42-8ca8-80f47640d407
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 05:00:00
+    value: 2743.7999999999997
+  - id: fb26f692-25d0-47c5-bdfa-8295b8fcd035
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 06:00:00
+    value: 2956.7999999999997
+  - id: ae97b537-2d97-47f5-9005-2b91f4b43574
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 07:00:00
+    value: 3523.0
+  - id: 570113b5-9f66-4d2c-99ae-537326be14d1
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 08:00:00
+    value: 3711.5
+  - id: 70088df2-71a3-4696-a49b-e56471308d95
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 09:00:00
+    value: 3197.8
+  - id: 54f565dd-4524-491a-87eb-3455fcfe6801
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 10:00:00
+    value: 2618.0
+  - id: a519772b-402a-46cc-9761-27a37bcbe7c4
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 11:00:00
+    value: 3583.6
+  - id: 23826577-84b1-4667-bef1-b21e4383e8cc
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 12:00:00
+    value: 3169.8
+  - id: e029d474-e12a-436e-a947-345b278797d7
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 13:00:00
+    value: 2957.4
+  - id: c83714ce-c03c-4534-9396-0d8d3d16eaea
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 14:00:00
+    value: 2366.3999999999996
+  - id: 244f28cc-0618-46e3-acba-a9f6e9f5a232
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 15:00:00
+    value: 3234.0
+  - id: a04e18d1-a26b-40ad-bcd2-2049dfe5336b
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 16:00:00
+    value: 3214.3999999999996
+  - id: edc3d5a2-5afe-4d95-8aeb-e38cab8440c1
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 17:00:00
+    value: 2736.0
+  - id: 4f983f9d-b60a-40ea-b5d3-feb89f8ed634
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 18:00:00
+    value: 3748.7999999999997
+  - id: 176a5f01-9ad7-45ba-8f0c-fc3c1f7748d4
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 19:00:00
+    value: 2598.3999999999996
+  - id: 9de57325-56ce-408c-bab2-a31e471c4313
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 20:00:00
+    value: 3607.5
+  - id: 65242527-1385-4b42-899c-e0a8405d9a73
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 21:00:00
+    value: 2755.5
+  - id: b63cf2c4-3e3e-466d-aa77-b7a4fa054794
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 22:00:00
+    value: 3151.5
+  - id: 092e459b-e3f0-46ce-adc9-9464e03c09b1
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-01 23:00:00
+    value: 2695.0
+  - id: fc0fbd70-087d-4580-a74c-1335291e87c1
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 00:00:00
+    value: 3164.4
+  - id: 7f65a24b-b239-4627-b40b-01d7ce0ba2ed
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 01:00:00
+    value: 3577.8
+  - id: bfbe5274-f9b7-4ebb-8abe-a9a922aa452c
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 02:00:00
+    value: 3475.2000000000003
+  - id: 74016bad-eb19-471e-9865-b1237c05f33f
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 03:00:00
+    value: 3745.3
+  - id: 9a17bc1f-366b-4c3d-ba95-f966116562a8
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 04:00:00
+    value: 3758.7000000000003
+  - id: 24488480-8749-4665-b442-62b1d817a51b
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 05:00:00
+    value: 3092.7
+  - id: 49332ba5-56b6-4bcd-97e6-4b19eb3bc3ae
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 06:00:00
+    value: 2799.5
+  - id: 739c3277-4566-4dce-acf3-47d667563a63
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 07:00:00
+    value: 3043.8999999999996
+  - id: 8783fc41-459f-4834-b589-327934129c28
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 08:00:00
+    value: 3372.7999999999997
+  - id: 02ad85b7-6e7a-4756-973e-a0d5c57fd0dd
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 09:00:00
+    value: 3180.9
+  - id: fc7ef18e-f733-436b-bc2e-3a9d65ddefee
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 10:00:00
+    value: 2688.4
+  - id: 88f13601-02de-4879-88bd-5ebb6ca462a3
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 11:00:00
+    value: 2538.0
+  - id: 1cb9332a-0ae1-4ef6-8305-ff2f8a06d4cd
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 12:00:00
+    value: 2575.8
+  - id: e0076dea-7ad3-4f81-8fdd-79c69b59cc05
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 13:00:00
+    value: 2366.0
+  - id: cddb17d6-35f5-4557-9e59-c66e6963b626
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 14:00:00
+    value: 3000.4
+  - id: 0ede1370-64aa-41e2-885e-5857102180db
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 15:00:00
+    value: 3794.4
+  - id: fec7ca2c-4ff2-4400-9282-e5d484c9c579
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 16:00:00
+    value: 3477.6
+  - id: 6ca930e1-6f9b-4729-b964-5d3bec9822d4
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 17:00:00
+    value: 3450.5
+  - id: 52fb70b3-e721-4853-995e-f0c73c206033
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 18:00:00
+    value: 3162.4
+  - id: f5128508-142e-400e-acc6-7ee2651d5e93
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 19:00:00
+    value: 2563.0
+  - id: a3c69a33-3394-4481-91de-bd8922e3f2a8
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 20:00:00
+    value: 3546.9
+  - id: 3ffe1bb0-a23b-42a3-8938-d23dfc511d9c
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 21:00:00
+    value: 2522.0
+  - id: 52007fcc-b602-4df4-a1c6-2c8be8415518
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 22:00:00
+    value: 3624.4
+  - id: 9fa1634c-b544-4b3f-ac14-6b7667dd183d
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-02 23:00:00
+    value: 3148.2000000000003
+  - id: f88cec6e-7fd5-428b-8f48-addd6e9de033
+    label: energy_spend
+    meter_id: 11474ebc-f958-47b5-8b64-b0ea7be5f71f
+    timestamp: 2020-08-03 00:00:00
+    value: 2745.4
+  17785fba-7219-46b1-94f4-e12f2529ee4c:
+  - id: b91bd07d-70b8-4f7d-8555-7f7834f27fb5
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 00:00:00
+    value: 3158.3999999999996
+  - id: b92978d8-453e-4bf5-82c6-21fade42ed9d
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 01:00:00
+    value: 2784.6
+  - id: d452cc32-baca-47f8-ab01-18d6d967f34d
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 02:00:00
+    value: 3368.9
+  - id: fe1cb917-6ddf-4d0b-b318-276937210edb
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 03:00:00
+    value: 2684.0
+  - id: c6a617b7-6ca5-492b-a7f8-e8f2cad2a27e
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 04:00:00
+    value: 2839.6
+  - id: 849604b1-ff9d-4129-949b-f6c367e21135
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 05:00:00
+    value: 3414.0
+  - id: 3acd5739-a106-4252-a570-e2f35f18dfc6
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 06:00:00
+    value: 2646.8
+  - id: 3e8dcd25-7302-4e29-ba28-f4ea9264e120
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 07:00:00
+    value: 3323.4
+  - id: 10353932-9990-4db5-b1ef-6855170e80e5
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 08:00:00
+    value: 3712.2000000000003
+  - id: 80a19cd8-5ac0-4971-91a2-e98afd33b80e
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 09:00:00
+    value: 2795.6
+  - id: 2e6f0136-b8a7-4894-954b-3330a714afec
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 10:00:00
+    value: 3375.6
+  - id: f988245a-5a24-4350-815f-43ea9a743565
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 11:00:00
+    value: 3880.5
+  - id: f50f5fef-d38a-497b-837b-6086038d3dd6
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 12:00:00
+    value: 3664.2000000000003
+  - id: ce387eb8-64fe-42f1-a968-7634f9bf1ef7
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 13:00:00
+    value: 2973.6
+  - id: 8ca3d31b-17c5-4eae-8f5a-0b752f84e90d
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 14:00:00
+    value: 3021.0
+  - id: 96f0e400-b3eb-486d-8718-82c8f36e6071
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 15:00:00
+    value: 4140.0
+  - id: c1f00234-9074-4988-893b-0576a2750fc9
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 16:00:00
+    value: 3024.0
+  - id: 089ebd39-6436-4eea-b888-9892fb3c1f18
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 17:00:00
+    value: 3137.6
+  - id: dcfece39-0a60-466d-913c-7f347f566a2f
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 18:00:00
+    value: 3986.5
+  - id: f438e32e-d4b2-4459-be22-7b25022c6f6d
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 19:00:00
+    value: 3515.4
+  - id: 5dfbee1b-13f8-4c47-a557-9d0a89a6dbcc
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 20:00:00
+    value: 2420.0
+  - id: d58db931-9c26-450a-b93a-cc224051cd5c
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 21:00:00
+    value: 2802.6000000000004
+  - id: 26d6cbc5-5b6a-4a6e-829f-199bde63b774
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 22:00:00
+    value: 2851.2000000000003
+  - id: c4bf7095-c611-48a5-8d54-e3ffd0e59607
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-01 23:00:00
+    value: 2652.0
+  - id: 50b07a5a-4b3c-434c-b997-5c314f983d9d
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 00:00:00
+    value: 3127.0
+  - id: 83b27f59-1c61-429c-beb5-36cfb14ae0b6
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 01:00:00
+    value: 3352.4
+  - id: a0711972-d7f1-46b3-b61b-9896818f540c
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 02:00:00
+    value: 2925.6
+  - id: 8a67b4ae-a8a3-484f-ac5a-3525aa5d086a
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 03:00:00
+    value: 3785.5
+  - id: 0f63f629-4cd4-4c67-b3f7-371a0874d3b4
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 04:00:00
+    value: 3220.7999999999997
+  - id: 796e3c41-c72a-4ace-913b-690ddaf64cf2
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 05:00:00
+    value: 3132.0
+  - id: 23cd3cab-4876-4473-88eb-df4835db0e62
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 06:00:00
+    value: 2984.7999999999997
+  - id: af123528-a26e-4146-9d8c-46fa547dde5b
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 07:00:00
+    value: 3031.7
+  - id: 8e1d448e-2216-4b56-bb01-b9aadb49924e
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 08:00:00
+    value: 2395.6
+  - id: 59b1b724-53bc-42f8-8381-4848eb182faa
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 09:00:00
+    value: 2696.3
+  - id: 6e337497-327f-445b-8095-0853f299c7fa
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 10:00:00
+    value: 2529.6
+  - id: 21211d83-2cbb-4ab1-9d9a-707ce0e1fbfd
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 11:00:00
+    value: 3449.6000000000004
+  - id: 12858ee7-6782-4a6a-ae01-18c29eedfa1f
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 12:00:00
+    value: 2480.0
+  - id: f8bf3121-9264-4ea6-819d-dce8f718d702
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 13:00:00
+    value: 2952.6
+  - id: 26c67f0a-033a-4e43-995e-71e04c40ee49
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 14:00:00
+    value: 2355.0
+  - id: 64e33c5d-f557-48dd-8e21-d3ff73bf8578
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 15:00:00
+    value: 3788.3999999999996
+  - id: 5be13260-3771-4216-97ab-2ec61f03bd6b
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 16:00:00
+    value: 2697.7
+  - id: 4a547869-b22f-4976-bec2-baed848d3b82
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 17:00:00
+    value: 3113.0
+  - id: e7abca9e-7f98-4a2b-8ecd-82b567fbab1b
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 18:00:00
+    value: 2473.5
+  - id: 97cf083c-209a-4f6e-9392-f7b76b4428a9
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 19:00:00
+    value: 3691.5
+  - id: b729db6f-2407-4304-8c71-22bffdf3bca8
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 20:00:00
+    value: 3450.0
+  - id: 3c82eb5b-e0f3-409c-ad49-abd958b91711
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 21:00:00
+    value: 2417.3999999999996
+  - id: b3201714-6dc5-45c6-bd03-62669be4ee79
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 22:00:00
+    value: 3234.0
+  - id: e6adcfa7-72c7-4c34-8f18-ede819adad71
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-02 23:00:00
+    value: 2412.2999999999997
+  - id: 627eb579-8e0b-4ad0-9be9-e33c1f4a1de8
+    label: energy_spend
+    meter_id: 17785fba-7219-46b1-94f4-e12f2529ee4c
+    timestamp: 2020-08-03 00:00:00
+    value: 3174.6
+  1bcad8c5-d197-4660-951a-565a150ea34d:
+  - id: bf74152a-95f1-4113-9c33-af4141f45ced
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 00:00:00
+    value: 3024.2999999999997
+  - id: ac1596d7-7098-4326-bd81-254e3cb67b2b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 01:00:00
+    value: 3854.5
+  - id: 39bd0fc6-9b23-442b-8109-10a53380bb7f
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 02:00:00
+    value: 3378.0
+  - id: efa2957d-247a-4159-a436-6feef3d68cc3
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 03:00:00
+    value: 3142.3
+  - id: 6ac4d8d9-ffa5-4ba0-ba8c-d7f133857e46
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 04:00:00
+    value: 2917.2
+  - id: a4dfc7db-b73a-4e2b-88ae-f48e3ad26a7b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 05:00:00
+    value: 2930.0
+  - id: ad49d054-afc6-47d9-8379-24067d16c63b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 06:00:00
+    value: 3256.2000000000003
+  - id: fea87fa2-7b11-4571-b75f-135152659214
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 07:00:00
+    value: 3019.5
+  - id: 9b4b39ec-96c9-4911-a1a1-cc8fbc63f901
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 08:00:00
+    value: 3534.1000000000004
+  - id: d4942160-3658-465a-8003-676dbf554c94
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 09:00:00
+    value: 3450.0
+  - id: 882d694a-7a3c-49ca-a34c-6bae2a1b876b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 10:00:00
+    value: 3119.2
+  - id: a0183d56-9392-42f7-a4fd-da0d6a6c9f8d
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 11:00:00
+    value: 3143.6
+  - id: d7fe3fff-0e2a-48cc-a0e4-c5f841b67c66
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 12:00:00
+    value: 3525.7999999999997
+  - id: a89d98ba-1c55-4c69-af92-3f143a39fa50
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 13:00:00
+    value: 2856.7
+  - id: 4ba15d2d-c5a8-4a32-8855-34094b545e4a
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 14:00:00
+    value: 3120.0
+  - id: 9c87be8f-1741-41a7-8ef0-41fc96ac768c
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 15:00:00
+    value: 2756.0
+  - id: bad9f3dc-aba8-4f91-ad5a-25403fb0072c
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 16:00:00
+    value: 2771.6
+  - id: 4b1788c3-a1b9-4f22-bbc2-2076a26d4445
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 17:00:00
+    value: 3550.7999999999997
+  - id: 5fb8ef3d-a136-4824-b6fb-8f534a4498ce
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 18:00:00
+    value: 2840.4
+  - id: 659cffe2-574d-47e1-82bb-b4edeecc5298
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 19:00:00
+    value: 2594.8
+  - id: 6df74882-46ae-4868-8b9f-509f492c6869
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 20:00:00
+    value: 2745.6
+  - id: 3139c812-2c9f-4206-876b-de05c205eab0
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 21:00:00
+    value: 3063.2
+  - id: 8d4170e4-0a91-4cce-8605-41596e19fbf6
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 22:00:00
+    value: 3742.2
+  - id: 7954f5d7-08e4-488a-92d3-3851f29ff3c9
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-01 23:00:00
+    value: 3564.0
+  - id: 87617288-f643-40f7-8e79-6bb197d5e883
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 00:00:00
+    value: 2795.0
+  - id: 116038b7-99b1-4822-82f8-e53ea4cf3574
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 01:00:00
+    value: 3012.0
+  - id: afd5710e-62a9-49df-99c1-d093eaf5c80a
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 02:00:00
+    value: 2774.3999999999996
+  - id: dbaa4efa-4a8e-4844-80ee-2c92ac15cf94
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 03:00:00
+    value: 2697.0
+  - id: 77a7f3d6-1737-441f-9d37-160d4926c70b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 04:00:00
+    value: 3808.0
+  - id: c12875ee-f01b-4896-b8c4-6251b2c1b7b9
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 05:00:00
+    value: 3136.0
+  - id: 5179b393-d633-4ead-aac8-fa10723d1095
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 06:00:00
+    value: 2741.7000000000003
+  - id: 03f2a7f5-2a05-4818-897e-9ba7e7731e3b
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 07:00:00
+    value: 3080.0
+  - id: 78c9d673-2e3c-469f-a346-d90ebf01c93e
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 08:00:00
+    value: 2505.0
+  - id: 4614c02d-7d39-4bf7-9a45-f8a1475a0cab
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 09:00:00
+    value: 2830.4
+  - id: 33581186-3da7-4420-8e0c-6d5da0a75ef9
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 10:00:00
+    value: 2552.0
+  - id: 066a9d21-299c-4068-a27a-652dae5c2d46
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 11:00:00
+    value: 2968.0
+  - id: 6495daf7-9a27-49d4-a524-d04c3a02e7df
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 12:00:00
+    value: 2772.4
+  - id: 745f9e08-ac37-47ad-973b-fce2fdf6a8a6
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 13:00:00
+    value: 2633.4
+  - id: a0f67925-2543-479e-a49d-a0d1f7d7c5fc
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 14:00:00
+    value: 3195.5
+  - id: 06f20941-04e2-46ba-b8db-14f3466389ed
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 15:00:00
+    value: 3204.5
+  - id: 8d7f7ba7-141e-4f22-9ae6-b75be16b0000
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 16:00:00
+    value: 3712.2000000000003
+  - id: f2a07a9c-139a-41de-b912-20672fe89c67
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 17:00:00
+    value: 3213.0
+  - id: e8ed20bd-4163-4c19-ba22-ffa7bbd26814
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 18:00:00
+    value: 3941.0
+  - id: c229268d-c025-47c6-aa92-f23eb211a66f
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 19:00:00
+    value: 3324.0
+  - id: 98668dfd-cef7-4852-91c4-b20e721da6af
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 20:00:00
+    value: 2633.4
+  - id: 555209fa-f4f9-46e5-937f-b2ed7ffe5505
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 21:00:00
+    value: 3738.0
+  - id: 4b3161ad-71f5-45d3-abb2-8c5642638ca0
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 22:00:00
+    value: 3174.0
+  - id: 47955102-b8bb-4f4b-b367-2201168b7502
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-02 23:00:00
+    value: 3179.0
+  - id: abefbc6d-a25e-43cf-a4c0-3cb2617d9ba0
+    label: energy_spend
+    meter_id: 1bcad8c5-d197-4660-951a-565a150ea34d
+    timestamp: 2020-08-03 00:00:00
+    value: 2827.2000000000003
+  21cda840-3d50-49d9-a407-c969e7b01f37:
+  - id: e98452db-4a13-4384-b254-de8f421fb1c4
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 00:00:00
+    value: 3360.4
+  - id: 2eeb10d6-c473-424e-9e89-516352cccb9a
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 01:00:00
+    value: 3206.0
+  - id: b21a2f06-a0e0-4cdd-a800-0a2f56d67acd
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 02:00:00
+    value: 3095.3999999999996
+  - id: dbb6cd50-9d94-45eb-bd7d-bea05ee9d46b
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 03:00:00
+    value: 3162.0
+  - id: 31a3a2b2-87fa-445a-96cf-04faabf89c02
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 04:00:00
+    value: 3692.0
+  - id: 6ac338dd-e25e-4889-b8dd-948de715c863
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 05:00:00
+    value: 3398.4
+  - id: 8b87a0f6-91b3-43a6-a052-d9f466923913
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 06:00:00
+    value: 2576.4
+  - id: 1b41d281-0ee5-480b-8cd0-e72268403d97
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 07:00:00
+    value: 3135.0
+  - id: 402f58b5-40f3-4601-b0f6-112f529b6ced
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 08:00:00
+    value: 3583.6
+  - id: b58fa990-f26c-470c-bdaf-44b3993df822
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 09:00:00
+    value: 3291.3
+  - id: cbc7c17d-d088-4b69-8b14-686dadd8795f
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 10:00:00
+    value: 2945.0
+  - id: 804aa1ec-9798-4391-86fd-b06a79060eb4
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 11:00:00
+    value: 3841.5
+  - id: ae8c1022-0d41-47b0-999d-fcd0cf9ab6a6
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 12:00:00
+    value: 3258.0
+  - id: e8585571-5e77-473d-9a9b-07b1a57c4cab
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 13:00:00
+    value: 2904.0
+  - id: c760886e-5290-42ff-bcbe-7d52f7cff7a5
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 14:00:00
+    value: 3387.2
+  - id: ead489ae-264a-45a1-af77-658d6bb9ca4d
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 15:00:00
+    value: 3898.5
+  - id: 61f2b55e-f906-41ee-bc52-9b1c0f7a73a0
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 16:00:00
+    value: 3416.0
+  - id: b7a88398-9c43-44a5-925a-d9d171fef196
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 17:00:00
+    value: 2824.9
+  - id: ba72d4e4-770e-4089-8bd9-7a8502f3f71f
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 18:00:00
+    value: 2766.5
+  - id: 32dbd9df-f97a-4300-9da3-ad44a50bcc34
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 19:00:00
+    value: 3142.8
+  - id: 836022a1-5ca6-47b5-b884-3e4270fd9faf
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 20:00:00
+    value: 3379.6
+  - id: 2014f227-c436-43a0-afa5-6975bbfbc1ba
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 21:00:00
+    value: 3685.5
+  - id: 5ccfad5f-1387-4623-85a3-40c3781db273
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 22:00:00
+    value: 3590.4
+  - id: 9f7b77d6-dd54-4d4f-a719-07edc16749d8
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-01 23:00:00
+    value: 3912.8
+  - id: 537045d6-d080-48e1-a78f-db2fa27932f7
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 00:00:00
+    value: 3603.2000000000003
+  - id: 17c2e80a-07d3-4281-9182-efe6664e4cdd
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 01:00:00
+    value: 2575.0
+  - id: 7c6de202-d853-433b-9a04-62b9a1eb3e4b
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 02:00:00
+    value: 2612.5
+  - id: 1c823278-3739-4e4e-b2c5-d25ff9ee679a
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 03:00:00
+    value: 3024.0
+  - id: cae4a43d-9442-4036-8655-e834f3b9d305
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 04:00:00
+    value: 3222.7000000000003
+  - id: 2cc229f5-0e88-4c19-9b76-6dd2a2fad895
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 05:00:00
+    value: 2568.8
+  - id: 24b9b323-2acc-4792-8d51-869c2dafb945
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 06:00:00
+    value: 2956.8
+  - id: 51e99397-c5a9-45d3-88f4-6a17eca1be97
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 07:00:00
+    value: 3239.1000000000004
+  - id: d74baa3a-8610-4e99-9481-80e01d14f275
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 08:00:00
+    value: 3752.0
+  - id: a07de5c2-6fe7-43ec-ab00-90ffe716d6a2
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 09:00:00
+    value: 2808.6
+  - id: cc0b45e7-2b30-418b-9ac1-d9cb29469cb1
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 10:00:00
+    value: 2808.0
+  - id: bb3d721c-ea1e-4fdc-b989-ebd412dcdb98
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 11:00:00
+    value: 3827.2000000000003
+  - id: 18e8bacc-0661-46cb-b3c6-d250fa7f4b92
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 12:00:00
+    value: 3861.0
+  - id: 3f97922b-c0d0-4dd3-af0a-43d419fabeac
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 13:00:00
+    value: 3479.0
+  - id: 0f5ad80a-0fad-46c8-b8f6-a3fdc0f157d0
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 14:00:00
+    value: 2810.1
+  - id: b4547d27-5b14-44a8-9ea5-b3a0dc3d7f46
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 15:00:00
+    value: 2662.4
+  - id: c8c2ff93-dd23-4e9a-a449-225a4edcb539
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 16:00:00
+    value: 3021.0
+  - id: 9ef1ccf7-3b90-4ae7-b220-f5ca03ae1ee2
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 17:00:00
+    value: 3038.0
+  - id: 72b05a01-52eb-4664-9512-2f447d1989e8
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 18:00:00
+    value: 2660.6
+  - id: 6c440f2e-2cc2-4d73-b171-53c1fd193b2d
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 19:00:00
+    value: 3074.4
+  - id: 9db73efa-d068-4657-b5d2-7347d28ae65e
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 20:00:00
+    value: 2650.5
+  - id: e6cfb324-bd65-45da-8741-06400c65f01b
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 21:00:00
+    value: 3078.4
+  - id: cfd413d7-fb49-483c-8587-f9fb3d2cca05
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 22:00:00
+    value: 3296.4
+  - id: a4129b2a-54d8-467c-9134-3337afe015ef
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-02 23:00:00
+    value: 3035.5
+  - id: 341668d1-7463-449f-a87b-30697e8025e2
+    label: energy_spend
+    meter_id: 21cda840-3d50-49d9-a407-c969e7b01f37
+    timestamp: 2020-08-03 00:00:00
+    value: 3003.0
+  281114fa-a089-4e03-8767-6daa9b3b265b:
+  - id: e8de96b1-5376-4376-8236-97f0c4d0f9e9
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 00:00:00
+    value: 3332.7
+  - id: 5756cad4-b053-4bf7-8c7f-c024bd2f5672
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 01:00:00
+    value: 3707.6
+  - id: 55bb9cb2-2056-46ce-ae4e-8cf589736c1e
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 02:00:00
+    value: 3136.0
+  - id: b332831f-4ca5-4ef5-aa37-faeb9b635afa
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 03:00:00
+    value: 3610.2
+  - id: d3334680-096c-4403-b88c-d0d164dd8572
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 04:00:00
+    value: 3202.5
+  - id: 3e6acc7c-9755-4838-aad0-4c41d1d9ac49
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 05:00:00
+    value: 2754.0
+  - id: 2b104f70-7cb6-433d-8975-277d5b29492c
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 06:00:00
+    value: 2843.8
+  - id: d47e30ca-a601-47f4-9e4c-299e6d3f5087
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 07:00:00
+    value: 2952.8999999999996
+  - id: 78f0e7fe-2db0-49f8-9e9a-3cc46abbe4b9
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 08:00:00
+    value: 3393.2
+  - id: 77ad0b7c-4959-47a9-9207-5c60907a418f
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 09:00:00
+    value: 2677.5
+  - id: b7489436-c1f7-4b59-a867-f5035b7fad44
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 10:00:00
+    value: 3805.6
+  - id: ed5ee679-e5cd-41af-ad1c-1ecd1cbef401
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 11:00:00
+    value: 2470.0
+  - id: 95ec34f4-0920-4f6f-a4b3-04b802aecd11
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 12:00:00
+    value: 2703.0
+  - id: 2781a6fe-8eca-451f-9945-760bec1610e1
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 13:00:00
+    value: 4002.0
+  - id: a492af8e-3da9-4d98-9669-2190f4db7279
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 14:00:00
+    value: 3062.4
+  - id: cdcb273d-3b4a-494e-95cf-4f7ad4b1802f
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 15:00:00
+    value: 3084.6
+  - id: 537ce8d8-e5af-4446-a34d-1d70d9e0e3a7
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 16:00:00
+    value: 3481.6000000000004
+  - id: a88d73f4-0973-4bee-94f8-9d28bd56b1b0
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 17:00:00
+    value: 3164.0
+  - id: a0910709-9821-4a0f-b19d-59482315a33f
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 18:00:00
+    value: 2755.5
+  - id: d41c8414-878e-47c8-8eb0-6ed61adec8a7
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 19:00:00
+    value: 2666.8
+  - id: a17836e0-c40e-49d9-91a1-8b0b981df785
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 20:00:00
+    value: 3155.8
+  - id: 598e6d0f-22c7-48e0-a5cf-03cb17f5c008
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 21:00:00
+    value: 2775.5
+  - id: ee9a3e5b-6802-460c-88e2-b08a1a6c80cf
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 22:00:00
+    value: 2615.7999999999997
+  - id: 8ce72c72-1905-4365-82e0-6a7b1ee3c852
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-01 23:00:00
+    value: 3366.0
+  - id: 9f5e52fc-ec2d-444e-8975-e399d6dd6c59
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 00:00:00
+    value: 3131.0
+  - id: a3f77f68-964b-479e-887c-a9c469b00ed8
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 01:00:00
+    value: 3794.0
+  - id: f325b2b2-7f9f-44ea-a0e3-16c652a1f026
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 02:00:00
+    value: 2602.2999999999997
+  - id: 3a5b84f1-d2be-4d45-b885-6e459e807233
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 03:00:00
+    value: 3787.0
+  - id: c94c3199-9a29-4a2f-ae94-6f25931ea3f6
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 04:00:00
+    value: 3571.1
+  - id: 1d00fb5c-7218-45ba-9d19-cfc2c7298932
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 05:00:00
+    value: 3348.0
+  - id: 544779c4-0f2d-4b8b-8c11-7e05928cb8ef
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 06:00:00
+    value: 3874.2
+  - id: 3d368718-db60-48c7-b1ce-4eb643e698e7
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 07:00:00
+    value: 3054.0
+  - id: 3deb2984-bda8-48af-ad49-7c323969de87
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 08:00:00
+    value: 2361.2999999999997
+  - id: 4aabdbcf-355a-47ab-80ac-90bd7a78ef31
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 09:00:00
+    value: 2917.4
+  - id: 1c52577a-7280-4792-9eaa-d71cfeadd77a
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 10:00:00
+    value: 2731.7999999999997
+  - id: 9a68f366-e91d-4ec0-80b0-a2d070f784e9
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 11:00:00
+    value: 2901.8999999999996
+  - id: 64dbbc3f-0197-4896-8413-a9d4fd0a775d
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 12:00:00
+    value: 2854.8
+  - id: 3d0c5528-f583-4ddd-a6b3-c74f52fa8d2f
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 13:00:00
+    value: 2467.8
+  - id: c4889eca-0fef-4930-a32c-cafc234c36f8
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 14:00:00
+    value: 3197.8
+  - id: 54648f07-c65c-4c71-870d-4f6e2876fe18
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 15:00:00
+    value: 2648.7999999999997
+  - id: 19f40620-e5a5-44fb-a145-09b2b4a22714
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 16:00:00
+    value: 3167.1000000000004
+  - id: 4a1775de-5287-4a3d-9732-403004ababce
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 17:00:00
+    value: 3609.9
+  - id: 383a47f9-d6f7-47e0-a6af-ae106b440e57
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 18:00:00
+    value: 3651.8
+  - id: 876a5430-ff3f-40c9-a0c0-5ce24b9dec27
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 19:00:00
+    value: 3458.0
+  - id: aa7ec7ac-8bc5-43e8-a399-12e7055f6bc0
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 20:00:00
+    value: 2929.0
+  - id: 1f58899f-a3a4-412f-aa41-17e1f710368e
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 21:00:00
+    value: 3315.2
+  - id: 9f0b41af-c742-4221-adbc-b79187eb6d77
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 22:00:00
+    value: 3446.1
+  - id: a59e5577-6a01-4ed5-91f8-d4c579af1131
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-02 23:00:00
+    value: 2906.3999999999996
+  - id: 668fb743-52eb-4a93-9fbe-d7be38882970
+    label: energy_spend
+    meter_id: 281114fa-a089-4e03-8767-6daa9b3b265b
+    timestamp: 2020-08-03 00:00:00
+    value: 3809.0
+  4e0aeaf9-25f9-4643-8050-020fcc7a341e:
+  - id: 72694f7c-49ce-442e-939e-4b0679d23c67
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 00:00:00
+    value: 3116.8
+  - id: 634d3eca-c9db-42f6-8b82-031d18d96fb2
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 01:00:00
+    value: 3552.0
+  - id: df42fc27-dca8-49da-a38e-3da2bc2ffcd7
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 02:00:00
+    value: 3571.2000000000003
+  - id: 5fd05ba4-f235-4c7d-b430-b3237d052ff5
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 03:00:00
+    value: 2660.0
+  - id: 32bec833-e77c-468e-a469-5081efc53370
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 04:00:00
+    value: 3044.7
+  - id: d7c9880e-95b3-4612-a8b8-cf5835be277b
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 05:00:00
+    value: 2922.2999999999997
+  - id: 84c2d1a2-634e-41db-92e4-05d605f02ed1
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 06:00:00
+    value: 2601.5
+  - id: 1171c0ba-d476-4ce8-a7cf-e3c7c10d4fd4
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 07:00:00
+    value: 3249.9
+  - id: b9008e75-73a1-4f33-8d35-69f84fae9a53
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 08:00:00
+    value: 3871.0
+  - id: ec909169-1898-4834-8851-26934b8f3e7c
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 09:00:00
+    value: 3513.6000000000004
+  - id: aa2edb24-58b0-41c1-989d-2ab1c64e50d0
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 10:00:00
+    value: 2570.7000000000003
+  - id: 72055571-b6de-4e71-84cd-77945b41f181
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 11:00:00
+    value: 3427.7999999999997
+  - id: 2e617c33-ec07-4bb9-8ef1-ecdedd9d1873
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 12:00:00
+    value: 2727.0
+  - id: b8930a6a-5082-45dd-85ee-b6cd34240cfd
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 13:00:00
+    value: 3003.9
+  - id: 1bac81cb-9124-4cc7-8373-4447fe89ffcb
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 14:00:00
+    value: 3456.7999999999997
+  - id: ae102603-f8e9-44b6-92ce-5363961d3dc8
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 15:00:00
+    value: 3906.1
+  - id: f5aba0ac-07af-4996-882c-41a532f56591
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 16:00:00
+    value: 3180.8
+  - id: 4e2fbe8d-bb68-455d-a230-971a85e4caf3
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 17:00:00
+    value: 3843.3
+  - id: 82b875da-7b65-42e2-99c7-8472eab7c628
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 18:00:00
+    value: 4025.6
+  - id: 27df85f9-40df-4449-ac4e-c18e859640a4
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 19:00:00
+    value: 3825.7000000000003
+  - id: bef257d6-9bab-466a-b0f1-02d243095ef4
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 20:00:00
+    value: 3132.0
+  - id: 9356f7c1-cb7f-448c-a16a-ae66c8591da9
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 21:00:00
+    value: 2968.0
+  - id: 64309c6b-5082-4f2e-8e6e-0f0a51c2f9a9
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 22:00:00
+    value: 3404.8
+  - id: 4dadd451-35a9-4a57-956b-a1062f9452b2
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-01 23:00:00
+    value: 3026.7000000000003
+  - id: d06cd476-260f-4b4f-812a-c44daa8c05db
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 00:00:00
+    value: 3135.0
+  - id: 5d09fb92-5a3e-4521-a34d-0acf0452adc7
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 01:00:00
+    value: 2814.8
+  - id: 8059f5d1-acf5-4ca6-8103-a54a48a4402a
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 02:00:00
+    value: 2777.6
+  - id: 18c3d36d-0645-4a05-99b4-41b68e77bc82
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 03:00:00
+    value: 2486.0
+  - id: 6e3e2f49-0c1f-4bff-ae27-30bde5db1adf
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 04:00:00
+    value: 3048.0
+  - id: e3f9dad8-e373-410f-8d2a-5e5c1eb48403
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 05:00:00
+    value: 3301.2
+  - id: 5f36431f-5892-4942-9235-6ae37e646b79
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 06:00:00
+    value: 2951.2
+  - id: d36bb72d-4c90-4f24-9ff7-3c5ece28584b
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 07:00:00
+    value: 2370.0
+  - id: 10beba68-da6d-40ae-a710-35dd0ba36618
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 08:00:00
+    value: 3718.4
+  - id: bec05857-08a0-4c85-95b9-4e5148084c5d
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 09:00:00
+    value: 3231.9
+  - id: 120867a3-936e-47e8-9000-6f142e3d3b09
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 10:00:00
+    value: 2987.0
+  - id: 036f9be3-00f9-4f17-a279-ba0615698d53
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 11:00:00
+    value: 3284.4
+  - id: b246cab4-11ce-485d-8b76-679007db711c
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 12:00:00
+    value: 3087.6
+  - id: eeaea623-afeb-46e9-b469-7a0272b339d7
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 13:00:00
+    value: 2478.6
+  - id: 410e16a1-aa95-4382-b567-bf5861515df6
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 14:00:00
+    value: 3819.0
+  - id: d78074b6-cdb3-465f-89b8-93271f4f898a
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 15:00:00
+    value: 3556.4
+  - id: eaf174c8-1f2b-4eef-ba97-262f81d51e8a
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 16:00:00
+    value: 2622.0
+  - id: b85e6725-1784-4670-ae2d-272ab14b8e4b
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 17:00:00
+    value: 3354.2000000000003
+  - id: 3cc40362-45e2-4466-9eb6-fc7f634749f8
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 18:00:00
+    value: 2962.7
+  - id: 8d7c7ffb-24a2-47fa-99b7-95aa316d6cd1
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 19:00:00
+    value: 2952.3999999999996
+  - id: a0214525-2420-4e41-865b-b717e9b3cb2b
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 20:00:00
+    value: 3008.5
+  - id: 3fa156b1-506e-4c15-a9d3-f55bfa35c8d3
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 21:00:00
+    value: 2916.9
+  - id: 12243c33-7fc7-4767-a08f-42dae5304d0b
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 22:00:00
+    value: 3185.0
+  - id: 3d9295ad-ca97-42a7-8e8e-c4edf1eac333
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-02 23:00:00
+    value: 3343.2
+  - id: e30236cf-1452-47b6-88d8-acccf7985109
+    label: energy_spend
+    meter_id: 4e0aeaf9-25f9-4643-8050-020fcc7a341e
+    timestamp: 2020-08-03 00:00:00
+    value: 2661.9
+  51cafe43-67c3-4a4e-9a20-dcc7e396a0c0:
+  - id: e9be554d-0a17-4636-88cd-102bcc58954d
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 00:00:00
+    value: 3425.3999999999996
+  - id: 8d86e461-8e2e-43aa-9061-21aa52753238
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 01:00:00
+    value: 3118.5
+  - id: 103e7621-55da-4856-b6fd-8da627f858f1
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 02:00:00
+    value: 2910.0
+  - id: 2ac0725c-ebee-4b44-83c1-5f977bdea721
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 03:00:00
+    value: 2823.6
+  - id: dd3856e5-b466-4e5d-8665-dd1435e5a913
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 04:00:00
+    value: 3590.4
+  - id: 7f455abb-72a7-4030-b361-650a32afea7a
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 05:00:00
+    value: 2730.0
+  - id: 4be19fae-5dc8-4ebf-a434-621a93a8d120
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 06:00:00
+    value: 3225.6000000000004
+  - id: c95bb96b-eb1c-43df-85f8-7e71935d799f
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 07:00:00
+    value: 3243.5
+  - id: acae1ced-ecee-4338-9463-41ca37247ba6
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 08:00:00
+    value: 3242.2
+  - id: 99247b5e-94cf-47e9-be76-5f36ed4391a7
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 09:00:00
+    value: 2993.7
+  - id: 2d98e809-9cd7-4072-a49a-e15bf8ed86fe
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 10:00:00
+    value: 4018.0
+  - id: c78e2264-319c-4155-bc24-c19abed52a6c
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 11:00:00
+    value: 2490.0
+  - id: 84b7d360-02ef-44d8-a206-b955f1765883
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 12:00:00
+    value: 2946.0
+  - id: 35712dff-57d1-4147-957d-f3c2745be635
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 13:00:00
+    value: 3731.0
+  - id: fb9843fc-b864-4257-9c50-4f56a05d01c5
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 14:00:00
+    value: 2509.2
+  - id: ce800a21-ec95-4270-855b-85fd078cd87c
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 15:00:00
+    value: 3304.6
+  - id: 8c310960-4dea-49a3-9fdd-4a4cdbd25496
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 16:00:00
+    value: 2491.0
+  - id: 9a80954e-1200-4c5e-8cb0-b3ebe893c184
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 17:00:00
+    value: 3801.6
+  - id: 8a8b4ee5-281f-41a1-ab4c-81056376f827
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 18:00:00
+    value: 3514.0
+  - id: fef088eb-4007-4c5f-910f-a83910979383
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 19:00:00
+    value: 3014.0
+  - id: c27d6238-38b1-4b50-86b4-ab15aa7dfc76
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 20:00:00
+    value: 2883.2
+  - id: cda3241b-a66a-4d42-8074-23973450b1ac
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 21:00:00
+    value: 3276.0
+  - id: 5573e440-88b8-4313-83fe-df65673028d1
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 22:00:00
+    value: 2542.8
+  - id: 5a2f2f33-a6cf-41b0-9021-2861d4bdc14b
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-01 23:00:00
+    value: 2610.4
+  - id: 0c5a9e57-c679-4c41-a5e3-5553b6ff911f
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 00:00:00
+    value: 3669.6
+  - id: 256691e8-c668-4a54-b648-85e01a739963
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 01:00:00
+    value: 2980.0
+  - id: f800882d-71c8-42cf-aeee-815491426141
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 02:00:00
+    value: 3321.7000000000003
+  - id: 43056fe4-c07c-4616-b5ca-8543ef9cf2f8
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 03:00:00
+    value: 3306.0
+  - id: e151f086-41f7-4e5b-a33a-bef99111ff25
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 04:00:00
+    value: 3091.4
+  - id: f9690885-7371-497a-82d0-6e3bbdc37283
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 05:00:00
+    value: 2952.1
+  - id: 496108d0-cfbc-4a04-8a8b-f1ea7eb8548d
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 06:00:00
+    value: 3029.3999999999996
+  - id: f6510680-979d-4785-ba99-092927d9d789
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 07:00:00
+    value: 3110.4
+  - id: 57425901-a54d-4e84-a92e-d5700227338d
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 08:00:00
+    value: 3240.0
+  - id: e31c47ff-4b2a-49f7-9a4a-da5312f64a0b
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 09:00:00
+    value: 3478.2
+  - id: eb894c54-7dd0-453b-bde1-5be93861fc3c
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 10:00:00
+    value: 2906.3999999999996
+  - id: 87866fbf-8a12-44ae-86f9-6637b4a5e801
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 11:00:00
+    value: 3202.5
+  - id: 8e5a92a0-2673-4880-b637-3eeb3c1cb848
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 12:00:00
+    value: 3763.2000000000003
+  - id: 284c9af8-ac4b-4ddf-8f1b-a5cb52396b8d
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 13:00:00
+    value: 2827.0
+  - id: 12604115-233d-4071-b68a-85d5a7e21d9f
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 14:00:00
+    value: 2538.0
+  - id: b48155cb-3977-4358-9735-2cc02e54f59a
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 15:00:00
+    value: 3144.0
+  - id: 89350573-328a-4dff-8cc5-1b7aeaad2adb
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 16:00:00
+    value: 3042.6
+  - id: 4b945948-94d1-4a2e-bf09-1ea612031578
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 17:00:00
+    value: 3618.0
+  - id: b883d00b-537a-4206-9aaf-dc61c2638f9c
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 18:00:00
+    value: 2678.6000000000004
+  - id: 1cce59ff-df9e-4b6c-a26d-8c8cc1db559f
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 19:00:00
+    value: 3939.6
+  - id: 6088ecb0-ff2c-4f03-bb3b-ce1b61533801
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 20:00:00
+    value: 2990.0
+  - id: 64838d96-80f0-4e40-a0ad-566a5cf9fd94
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 21:00:00
+    value: 3081.4
+  - id: 5d03ecf2-2e58-4843-9f8b-f1bd29129f3e
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 22:00:00
+    value: 3551.0
+  - id: 8f7bf8a1-7f95-4cbf-aaf2-7927a60ba53c
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-02 23:00:00
+    value: 3106.5
+  - id: fb04f4b2-4b7b-4d81-8312-61208059bac9
+    label: energy_spend
+    meter_id: 51cafe43-67c3-4a4e-9a20-dcc7e396a0c0
+    timestamp: 2020-08-03 00:00:00
+    value: 2773.0
+  54bd219e-f43f-44ea-8612-4c7a3389aa56:
+  - id: 653d8017-44dc-4d15-ac4c-99c0343cbd14
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 00:00:00
+    value: 2732.7999999999997
+  - id: ff262b3e-8ec3-4d4c-b1a4-2f7f78fb926e
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 01:00:00
+    value: 2900.7999999999997
+  - id: 110967c9-8afd-4250-a7e7-8d20ebea01b4
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 02:00:00
+    value: 2525.0
+  - id: 1dbfe4da-f8de-4bb8-8d97-9bdde91e93a1
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 03:00:00
+    value: 3308.8
+  - id: 151acc94-8132-4740-9965-9890e7b77286
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 04:00:00
+    value: 3178.1
+  - id: 34acae57-98f8-44b7-8eff-c2bded6f9052
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 05:00:00
+    value: 3082.0
+  - id: f3725b48-bf8c-4649-86ca-cf1d9b054d2f
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 06:00:00
+    value: 3092.7
+  - id: 363f4897-c2f3-487f-a336-29f16afc42c1
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 07:00:00
+    value: 3309.8
+  - id: 6af33ada-5fdc-4ca7-bb85-e1d58941aabb
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 08:00:00
+    value: 3146.0
+  - id: efc1e3cc-047a-4d99-a72f-e33461c2c467
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 09:00:00
+    value: 2745.4
+  - id: afc868de-0f74-4668-9983-082b613646f2
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 10:00:00
+    value: 3360.0
+  - id: fc3abc68-2f64-4926-9226-ff166f784cd1
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 11:00:00
+    value: 3085.6
+  - id: a9ad175a-46f0-47fd-9f07-5f72283459d8
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 12:00:00
+    value: 3422.4
+  - id: 21819a0f-59dd-440c-8ee7-e90ff78dd7bd
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 13:00:00
+    value: 2841.2999999999997
+  - id: c4fea44a-27a4-4c67-bdfd-c63d5036c201
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 14:00:00
+    value: 2835.0
+  - id: e119f264-20a4-4202-b50a-482d60d909b8
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 15:00:00
+    value: 3878.0
+  - id: 1d014d57-802e-4e3b-9889-a9aceadb4396
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 16:00:00
+    value: 3320.7999999999997
+  - id: 24733cef-9467-4b97-a54e-1c7867b2017b
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 17:00:00
+    value: 2581.2000000000003
+  - id: 2bcd6434-f108-44fe-be83-94a547bb785b
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 18:00:00
+    value: 3492.0
+  - id: 05b90710-b178-47ea-86b1-b463049636d7
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 19:00:00
+    value: 3273.6
+  - id: b2484972-ada9-4ebd-a867-3b994156a777
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 20:00:00
+    value: 3118.5
+  - id: fa589e03-c977-4869-a0b6-629c24be6ccd
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 21:00:00
+    value: 2991.3
+  - id: 32330494-cd78-4151-bdd3-88103508193b
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 22:00:00
+    value: 3934.0
+  - id: 090d6759-2234-4e48-8d4d-3aedfdb05e1f
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-01 23:00:00
+    value: 3757.0
+  - id: 6f355202-9769-43c3-a1dc-c051481ff94b
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 00:00:00
+    value: 3841.5
+  - id: 4f1cbaad-6396-4cdb-afc4-e733dfb97ae1
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 01:00:00
+    value: 3745.3
+  - id: 7d2a61bb-085e-4d0f-8181-c2e981af5422
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 02:00:00
+    value: 2941.5
+  - id: 2f92985a-41cd-478a-b318-3e59ff91135e
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 03:00:00
+    value: 2766.3999999999996
+  - id: f9747584-1e04-4186-94eb-34e78f25c8da
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 04:00:00
+    value: 2535.0
+  - id: f3e44e59-c065-4a92-b724-77cbfe4bb6aa
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 05:00:00
+    value: 2676.5
+  - id: 71b8a654-24ce-413c-b61e-381ca25db644
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 06:00:00
+    value: 3157.0
+  - id: 6df8c2b0-508d-49c0-8ff4-5b38ef4d35d0
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 07:00:00
+    value: 4080.0
+  - id: 1f5e399d-4770-47b4-8060-4ad866e7e521
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 08:00:00
+    value: 3044.4
+  - id: 8a61d375-4f72-41c0-88e7-788826ec2a46
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 09:00:00
+    value: 3300.3
+  - id: 9888eef2-bca0-4512-b03b-4827749d33af
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 10:00:00
+    value: 3236.7999999999997
+  - id: bf18daed-f779-49e5-ab80-4116f54de5a2
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 11:00:00
+    value: 2979.5
+  - id: 065efe37-da07-4595-9c4f-7cf1a34a331e
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 12:00:00
+    value: 2978.6
+  - id: c2a6d0bc-dca0-4c3a-8603-1c6df9335468
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 13:00:00
+    value: 3103.0
+  - id: 6ddb534e-1514-45e4-b987-78e280b6e1a2
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 14:00:00
+    value: 3014.4
+  - id: 19829194-0b57-40ec-9539-fd91c75c2a27
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 15:00:00
+    value: 3470.6
+  - id: 2c69fc01-1685-4971-a3f1-9633b5a37332
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 16:00:00
+    value: 3037.7999999999997
+  - id: 1e7dffb6-441d-4878-93fa-cfdddcf926f6
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 17:00:00
+    value: 2810.5
+  - id: 000d97c4-3da2-4927-acb0-9e4b41ab627b
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 18:00:00
+    value: 3464.5
+  - id: 7bfc3e1e-7780-4d75-ab84-0f2d03b0e12a
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 19:00:00
+    value: 3498.0
+  - id: b8031fb8-af94-4890-842d-6a4e9943e502
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 20:00:00
+    value: 3735.6
+  - id: a8a859d5-5a69-4606-b812-144758ee7901
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 21:00:00
+    value: 3343.2
+  - id: 61b87e88-2534-422d-a297-c4bca59c2104
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 22:00:00
+    value: 3233.0
+  - id: 3382f349-5506-4bbd-9e43-c7fda16afb2f
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-02 23:00:00
+    value: 3221.4
+  - id: f8746517-db39-488f-b8df-42a0dd9c46fe
+    label: energy_spend
+    meter_id: 54bd219e-f43f-44ea-8612-4c7a3389aa56
+    timestamp: 2020-08-03 00:00:00
+    value: 3397.2000000000003
+  72a6cc4f-68f8-4d10-95e0-b40e446a58e1:
+  - id: 9e241fe7-5528-4731-8f32-056ae87b1642
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 00:00:00
+    value: 3840.0
+  - id: 1a8c50d2-ac76-4bcb-8be9-75113e8253ed
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 01:00:00
+    value: 2695.0
+  - id: 96e0e7e9-af76-4698-8b12-b70b366b975b
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 02:00:00
+    value: 2618.0
+  - id: 41d72ce4-4c98-40fb-ac87-f86b1e5d9063
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 03:00:00
+    value: 2915.0
+  - id: 46a1b0d6-d578-4839-8c32-9fdab00a1d84
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 04:00:00
+    value: 2969.6
+  - id: 0b70f24f-8646-4046-a65e-60db1abb0142
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 05:00:00
+    value: 3097.5
+  - id: 6d6c5db1-3df5-4326-84e5-6fb95f75fb73
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 06:00:00
+    value: 3147.2
+  - id: d126f7bc-3176-47ba-aae1-0805b840cbb6
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 07:00:00
+    value: 3350.0
+  - id: d17dcae1-1e43-4039-83a1-d6fb2dbc3f76
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 08:00:00
+    value: 3445.0
+  - id: 3ecf4e29-cdd3-4df6-a3a5-7cfa3615400f
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 09:00:00
+    value: 3737.6000000000004
+  - id: 5b269a3e-05f1-46bd-a9da-0e3429b72be8
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 10:00:00
+    value: 2467.8
+  - id: e384bcbb-b191-43c9-80e6-9098fa57b602
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 11:00:00
+    value: 3172.6
+  - id: e662dd7d-8adb-4e4a-9fff-1cbf8055ad3d
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 12:00:00
+    value: 3276.0
+  - id: 29ad692a-f14e-46f3-bb21-edba13a4d920
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 13:00:00
+    value: 3542.7999999999997
+  - id: 8b781588-b023-47f2-a397-c03d68f230a6
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 14:00:00
+    value: 2687.1
+  - id: 3cd81f18-e57d-458f-9736-ee863a13c34a
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 15:00:00
+    value: 3946.3
+  - id: c930210c-5cda-4860-9f47-b3b7d9808e7f
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 16:00:00
+    value: 3509.1
+  - id: 4abdcd4d-9001-4540-994b-5b4a5cf0e87a
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 17:00:00
+    value: 2570.5
+  - id: 47b7f6c0-9e7c-4b92-a1fd-7ff4afdd86ad
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 18:00:00
+    value: 3847.7999999999997
+  - id: 14ccb180-7805-49f8-945f-ebbfdea8eb4f
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 19:00:00
+    value: 3939.6
+  - id: 3afa3877-b654-4430-b526-b7405fa07dc9
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 20:00:00
+    value: 3343.3
+  - id: 8a217fe6-a61c-4381-9e72-69e142d511b7
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 21:00:00
+    value: 3035.2
+  - id: d645174e-9012-475b-a118-ffb73e8cc611
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 22:00:00
+    value: 3394.8
+  - id: bdc8a295-6f0f-4e2a-b8a4-7971533bdbe3
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-01 23:00:00
+    value: 2748.6000000000004
+  - id: 7096f83c-e76c-4cb4-afc9-f467359ab8a2
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 00:00:00
+    value: 3204.5
+  - id: 25f17198-beee-4295-899b-84beaa009e34
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 01:00:00
+    value: 2727.2
+  - id: 5f7f811a-ab6c-4175-b4aa-6938eb404050
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 02:00:00
+    value: 3446.1
+  - id: 1573543c-f78a-4962-9e44-284e05bb5eb2
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 03:00:00
+    value: 3294.0
+  - id: 2cd837ae-b98e-4ffc-b3c2-445223173885
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 04:00:00
+    value: 2545.0
+  - id: 5448a7d8-621a-4149-9f9f-6a6a76912d0d
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 05:00:00
+    value: 3224.7999999999997
+  - id: 0a9e35ec-dc3e-4ab1-9f78-3677976e1f62
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 06:00:00
+    value: 3320.1
+  - id: e853290d-e500-49f7-a3ac-f97a138670d9
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 07:00:00
+    value: 2989.7999999999997
+  - id: b3d98daf-db52-4c34-91b9-c2f1b2bf87e0
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 08:00:00
+    value: 3443.2000000000003
+  - id: f0198ae3-b962-4e48-a04b-1bb73005e693
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 09:00:00
+    value: 3446.5
+  - id: bf0f3224-fe98-4607-b26e-61e222a336d3
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 10:00:00
+    value: 3906.1
+  - id: 799fbd89-94b2-4b3d-b3d5-81e8b3eaf9cb
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 11:00:00
+    value: 3509.2000000000003
+  - id: 1eff937c-ba6b-47f5-9102-c7dac1c70db3
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 12:00:00
+    value: 2725.8
+  - id: 6067d740-61ad-4548-85ce-00a8ecb5ce6b
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 13:00:00
+    value: 2946.7999999999997
+  - id: 28c5d81e-5bd7-48a2-8c9b-e4d226328595
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 14:00:00
+    value: 2870.4
+  - id: 6ed00b01-ce0a-44b0-900f-2694a10c9eac
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 15:00:00
+    value: 3745.3
+  - id: 8dbe4938-f31c-4880-8487-e2a759c680b0
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 16:00:00
+    value: 3385.5
+  - id: 13982ba5-536a-44e9-9b2d-49b9a56c404c
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 17:00:00
+    value: 4043.4
+  - id: e0d53348-4028-4eec-8c5a-676d83c3b6cc
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 18:00:00
+    value: 3100.8
+  - id: 130374dc-2abd-43c5-8d83-ecb848863e4b
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 19:00:00
+    value: 3848.0
+  - id: a102806c-2e46-4124-a13d-43e03e23926c
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 20:00:00
+    value: 2867.4
+  - id: caf2cab3-35a6-4e32-a2ec-f4795fcc6d1a
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 21:00:00
+    value: 2696.3
+  - id: f7c37c0f-f639-4fcf-8595-d39522c2c85f
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 22:00:00
+    value: 3381.0
+  - id: 140b9d5d-c3d5-484a-b38e-8eb314136d37
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-02 23:00:00
+    value: 3418.7999999999997
+  - id: d390609c-7172-4ce0-8dae-94c6b2b4925f
+    label: energy_spend
+    meter_id: 72a6cc4f-68f8-4d10-95e0-b40e446a58e1
+    timestamp: 2020-08-03 00:00:00
+    value: 2975.4
+  bfeee869-1115-45d7-b8ba-964c6acf6d64:
+  - id: 8165ff5c-af2e-4384-86f2-6f3650749476
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 00:00:00
+    value: 2808.0
+  - id: 24b376dd-d33f-4f86-97cc-567fc09b6b3b
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 01:00:00
+    value: 3664.2000000000003
+  - id: 152e75a1-3015-450e-9fa0-7662566f4dc0
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 02:00:00
+    value: 3287.8999999999996
+  - id: 059b2063-ced2-4f17-a1f2-2fa234949251
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 03:00:00
+    value: 3302.4
+  - id: e5129d2c-2491-4a3b-86b2-2470445c95dd
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 04:00:00
+    value: 2872.8
+  - id: 4c4e1639-2c16-479b-aa66-622ea2d470d3
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 05:00:00
+    value: 3440.3999999999996
+  - id: 6d6352fc-b01c-47c1-a23e-deed290ed529
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 06:00:00
+    value: 2784.6
+  - id: a6ececa3-0968-4812-b68e-9c882a7a3ac8
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 07:00:00
+    value: 2883.6000000000004
+  - id: 3a95ce5c-0841-48fd-8166-0ac1a4c54137
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 08:00:00
+    value: 2519.0
+  - id: bbf7b414-a2f4-4fbd-9187-007fc8b9edb3
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 09:00:00
+    value: 2449.2000000000003
+  - id: 95bfe579-6a31-4aa7-ba27-030072e1659c
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 10:00:00
+    value: 3670.8
+  - id: 4b8b6668-83fc-46dc-8652-0d731cd543ef
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 11:00:00
+    value: 3031.6
+  - id: 1f175e14-3cdf-429e-81e4-0e559e1c1899
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 12:00:00
+    value: 3013.2000000000003
+  - id: 4428912f-f128-4bcd-9490-966fb0ade6fc
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 13:00:00
+    value: 2506.9
+  - id: 217ef6ee-f985-4c1a-a2cb-f49076a83605
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 14:00:00
+    value: 3757.0
+  - id: e323c1ff-d693-4b53-994b-754c05b72cb0
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 15:00:00
+    value: 2423.2000000000003
+  - id: 8aeffbf7-8eb5-4c49-8d6d-f1cc1dab92a4
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 16:00:00
+    value: 2559.6000000000004
+  - id: 93174ead-4e66-4f2c-ac54-28247b509348
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 17:00:00
+    value: 3586.7999999999997
+  - id: 0fdb6cf1-43b0-4d88-8f74-aa86b44443b0
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 18:00:00
+    value: 3214.2
+  - id: 88487069-221e-433f-a21b-7cb2fd501a93
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 19:00:00
+    value: 3169.4
+  - id: 77d15b10-4afc-4e95-ba05-7bc6225dcc5e
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 20:00:00
+    value: 3015.3
+  - id: a775a55c-86a9-40c3-9182-ec8ec1ca2353
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 21:00:00
+    value: 2361.2999999999997
+  - id: faffdfe0-fc67-4fcd-bc28-a851c93fe4c7
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 22:00:00
+    value: 3225.6
+  - id: fad7e7bc-8676-4325-994a-da73f8b5379d
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-01 23:00:00
+    value: 3643.2
+  - id: edb6718c-1ef1-4cc7-95af-98edfb05a29a
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 00:00:00
+    value: 2530.0
+  - id: e304a05b-6f33-43ed-88be-da279a9ec5ba
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 01:00:00
+    value: 3520.0
+  - id: 27124d8d-230c-49c8-8610-d35ddd59d627
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 02:00:00
+    value: 2559.9
+  - id: 42963548-6de1-412d-bf31-e9a9d91fcb4a
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 03:00:00
+    value: 3316.5
+  - id: 8878f178-56dc-48aa-8a94-8a848e57eb48
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 04:00:00
+    value: 2880.0
+  - id: fc81500c-8276-4e2b-8d74-3bab32d502cd
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 05:00:00
+    value: 3445.6000000000004
+  - id: de472c5a-c7bf-4bf6-af49-2c77dde264b7
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 06:00:00
+    value: 3789.5
+  - id: 988b63c9-2abf-4d26-bbd2-4f3e56d3b870
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 07:00:00
+    value: 2727.0
+  - id: 30c42eee-84cf-4ba1-97ff-ed3c0e343b78
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 08:00:00
+    value: 3403.8
+  - id: 32511ee9-9c22-49b8-949d-9fcb323f4879
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 09:00:00
+    value: 2963.7999999999997
+  - id: 546473be-5f23-4826-860a-2d49a015167f
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 10:00:00
+    value: 2735.2000000000003
+  - id: 8bec8814-dc4a-4d92-b764-b94deb6f4bfa
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 11:00:00
+    value: 3261.2000000000003
+  - id: f07114f9-9f99-45a0-a29f-9a1f4241fcb1
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 12:00:00
+    value: 2830.2
+  - id: 13e68ed4-9e2e-4445-8e6e-b8cadc3e37dc
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 13:00:00
+    value: 3520.0
+  - id: a8290712-9c15-4512-8894-5bdca7107e5e
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 14:00:00
+    value: 3013.3999999999996
+  - id: e6548077-6b72-4a2d-a07b-3fafddfa9e44
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 15:00:00
+    value: 3402.0
+  - id: 09c9ddb5-b13a-4707-91bb-3c0e9bbf1508
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 16:00:00
+    value: 3971.2
+  - id: edff273e-e7bc-4cce-9a18-e29640adb1e5
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 17:00:00
+    value: 2998.7999999999997
+  - id: 5adedcff-9878-403b-a3eb-77b2b8772435
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 18:00:00
+    value: 3879.3
+  - id: a9f74a6a-4d8e-479f-8e02-5e475d1556a1
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 19:00:00
+    value: 3882.7999999999997
+  - id: 06603cf7-6afd-4aa6-a849-f738854a86fb
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 20:00:00
+    value: 2997.5
+  - id: f7f1c85a-2945-4713-9d9b-506622c09d90
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 21:00:00
+    value: 3115.2
+  - id: c7dd92b4-0de5-4847-bdf8-63638b67a976
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 22:00:00
+    value: 2679.0
+  - id: 3137297c-f4ec-4d69-923e-5a53587c032c
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-02 23:00:00
+    value: 2994.0
+  - id: 776ac3ef-d624-4d10-9e6a-64110f4c7d64
+    label: energy_spend
+    meter_id: bfeee869-1115-45d7-b8ba-964c6acf6d64
+    timestamp: 2020-08-03 00:00:00
+    value: 2953.8
+  c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e:
+  - id: 655b9b86-668f-46a4-a32d-880f415cee18
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 00:00:00
+    value: 3096.7999999999997
+  - id: 60fdf531-42e4-48dc-81b0-882e8194f0df
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 01:00:00
+    value: 4015.8
+  - id: b31eec98-01ad-42ce-905e-ff4e82ec6020
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 02:00:00
+    value: 3256.8
+  - id: f91d6c72-bbc2-4e93-bc39-733d1fa3e8ac
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 03:00:00
+    value: 3175.6
+  - id: 4b6d929c-1e85-4b55-8d63-21985db0d6bb
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 04:00:00
+    value: 3021.2000000000003
+  - id: 9bf284b9-4dcd-4b0e-b403-78c6ccef7386
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 05:00:00
+    value: 3123.6
+  - id: 0610b618-3bd2-4672-8802-272b5afd2af7
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 06:00:00
+    value: 3167.1000000000004
+  - id: eb83b9d9-df88-4e37-8dbf-c6c965cc2d45
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 07:00:00
+    value: 3195.9
+  - id: 9ab7fcc2-e6c8-40c7-8ef7-11cd808f18c7
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 08:00:00
+    value: 3104.4
+  - id: 7657ef0b-61fa-4732-b54f-2c10c897522c
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 09:00:00
+    value: 3483.9
+  - id: 7d2f05ef-076b-4446-81ca-9bbe3ff95ec9
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 10:00:00
+    value: 3748.7999999999997
+  - id: 95583649-2563-4700-957e-dd76e0379939
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 11:00:00
+    value: 2953.6
+  - id: 29c8e9a4-a9c8-43fb-a20e-8c9fcc86f126
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 12:00:00
+    value: 3257.2
+  - id: a34dcd03-d1a1-4aed-9538-ea4c2530783a
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 13:00:00
+    value: 2719.6
+  - id: 0726f977-5597-40c9-9a99-300332fac0a8
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 14:00:00
+    value: 3292.7999999999997
+  - id: 3ffa57b9-9fe8-4ee5-8263-4db23890f1bc
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 15:00:00
+    value: 2970.5
+  - id: afac968d-e178-4c59-9426-dd0c100a4944
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 16:00:00
+    value: 3102.1
+  - id: 9e97b0d0-86d9-42b2-9e62-d1b1eb4bc0a0
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 17:00:00
+    value: 3190.0
+  - id: 405a85f9-9062-4394-8579-3198f1690afb
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 18:00:00
+    value: 2835.5
+  - id: 8f8a8bdd-838b-421c-aaa9-4923cc532d06
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 19:00:00
+    value: 3046.3999999999996
+  - id: 02b05c2a-a186-48ad-b306-ca5ec5181088
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 20:00:00
+    value: 3869.2
+  - id: 187d0d4d-9fb8-49f2-b259-3c8bd51e55e0
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 21:00:00
+    value: 2737.6
+  - id: f9ba5fa7-e4c1-4d79-bb6f-af4ffb60144d
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 22:00:00
+    value: 3080.0
+  - id: f11fc207-29e8-45cb-a938-78829e87b9bd
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-01 23:00:00
+    value: 3819.0
+  - id: 0bb822db-0dcf-42b1-9b21-813a4f7b83d5
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 00:00:00
+    value: 3557.3999999999996
+  - id: d8a466eb-ab41-4223-8e23-e4ee868530c4
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 01:00:00
+    value: 2615.0
+  - id: 21500731-d26e-41ca-a900-bdc2590dbdd2
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 02:00:00
+    value: 2818.2
+  - id: f3f9a86c-a67f-4b63-9308-910bd46d40fb
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 03:00:00
+    value: 3027.2000000000003
+  - id: 666dcc94-270c-46ca-8241-941bf8a2472d
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 04:00:00
+    value: 3919.5
+  - id: 7c26a7a7-c034-4a23-aa22-304529dd4428
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 05:00:00
+    value: 3667.2000000000003
+  - id: dd5d8aaa-9680-415b-b62f-be16d8b0b7bd
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 06:00:00
+    value: 3923.6
+  - id: d1b5a699-cdf8-44a8-a811-dbafbe1cdd26
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 07:00:00
+    value: 3221.4
+  - id: 7e89bcae-4bcc-4b9a-8208-a30233f4060d
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 08:00:00
+    value: 2969.6
+  - id: 74ecdcac-5348-4f72-ae6e-ed5f159a7f21
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 09:00:00
+    value: 3038.1
+  - id: 463e8f6c-f1bd-421e-8676-64e9e59aae40
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 10:00:00
+    value: 3745.0
+  - id: b238c017-eacd-4ca4-8c8b-81f7dcc51e4c
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 11:00:00
+    value: 3468.8
+  - id: 0087735c-70f1-44d9-a751-a357e6a479f2
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 12:00:00
+    value: 2845.8
+  - id: 773037e4-26d0-4a12-8ed2-c6bc42bf4062
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 13:00:00
+    value: 2771.6
+  - id: 26b14022-9137-46a8-aa30-886ea3acfcbc
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 14:00:00
+    value: 2555.0
+  - id: 7aaa9214-1615-4adb-a2cb-c6adc77c121c
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 15:00:00
+    value: 3129.3
+  - id: 0939bb18-7bc2-4498-94e9-c106c58ce7e6
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 16:00:00
+    value: 4091.7000000000003
+  - id: 3a7f81b9-9990-4a9f-917b-001d0f06b0e5
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 17:00:00
+    value: 2802.6000000000004
+  - id: f17770bc-16c4-4515-998e-46ab9ebfc550
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 18:00:00
+    value: 3710.7
+  - id: e42ac690-1143-4582-a584-ddbe8211c24f
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 19:00:00
+    value: 2982.2000000000003
+  - id: b6bc9668-d4bc-47c9-9762-e789ec7c1cfd
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 20:00:00
+    value: 2534.7
+  - id: 8f006da9-baff-4b5d-bc57-9b95714bfd09
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 21:00:00
+    value: 3454.4
+  - id: 28c6f475-bb53-46f9-a68d-b2ba029d37ca
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 22:00:00
+    value: 2381.6
+  - id: c1ddd164-d4d4-4691-baa8-4f367a90578c
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-02 23:00:00
+    value: 3874.0
+  - id: c5721fa3-2df8-4655-af64-881568f79b9e
+    label: energy_spend
+    meter_id: c21abc7e-171d-4b98-b8d2-7e27ec5f2a7e
+    timestamp: 2020-08-03 00:00:00
+    value: 3440.7999999999997
+  c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad:
+  - id: 7b2479d7-0474-4ea3-9172-d64766a037f5
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 00:00:00
+    value: 3923.6
+  - id: 0ad311a8-a3d5-4dc0-8013-42aff917f63f
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 01:00:00
+    value: 2808.0
+  - id: b4c9f5d8-285a-4588-ba50-b2122878f6ac
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 02:00:00
+    value: 3534.0
+  - id: df78e669-aa88-4d40-8583-f96b6ef236d2
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 03:00:00
+    value: 3537.6
+  - id: f70151b3-dd06-4bd0-98b3-7e1b65858cfa
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 04:00:00
+    value: 3366.6
+  - id: f32df8d6-5124-49df-bfe8-3565e58384dd
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 05:00:00
+    value: 2537.6
+  - id: ccf00177-6401-41ee-8311-e61ad340b091
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 06:00:00
+    value: 3689.0
+  - id: d8720c42-2205-482b-9ef9-62f0c211dade
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 07:00:00
+    value: 2780.0
+  - id: cb70edd2-894f-45fb-8324-e248cf74241e
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 08:00:00
+    value: 3329.9
+  - id: 42fc31f2-26d9-437e-b3ae-3cfb8c04f353
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 09:00:00
+    value: 3605.0
+  - id: 2d9ffcb6-ce34-49e4-9e23-8da5987781ff
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 10:00:00
+    value: 3686.4
+  - id: 1ea7223e-2789-4b61-880c-b38e495a56af
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 11:00:00
+    value: 2522.7999999999997
+  - id: 9d716bc4-8953-452e-aa1a-7aaa25c16be4
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 12:00:00
+    value: 2418.0
+  - id: 22b35ee2-3bf4-4f54-bb51-2172989508e1
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 13:00:00
+    value: 3108.0
+  - id: 685bcc25-fef9-45d3-88cd-9b9b36f03f82
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 14:00:00
+    value: 2931.2000000000003
+  - id: df4bd5e2-f899-4b04-bd64-8d40ed409589
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 15:00:00
+    value: 3289.7000000000003
+  - id: 1ab35539-ccee-4815-9bd9-3e9a8ef87bf3
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 16:00:00
+    value: 3162.0
+  - id: 70ee07c9-3b20-4287-82da-2a6637dc2bfe
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 17:00:00
+    value: 3480.0
+  - id: 3e378aed-7d39-4f7b-8180-14a9215ad7b2
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 18:00:00
+    value: 2980.0
+  - id: 98721f9b-07b0-4517-ad37-ecc2d1a45bf7
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 19:00:00
+    value: 3967.5
+  - id: b7b7f9fa-252e-42da-8c7c-251d34e23f5d
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 20:00:00
+    value: 2983.5
+  - id: 8186c757-615c-4e8c-a8e7-7cb047732de9
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 21:00:00
+    value: 2976.0
+  - id: f56f4543-4db8-4572-98d6-86c124158d10
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 22:00:00
+    value: 3410.3
+  - id: 7f44e5bf-2877-49e9-aa54-7eb2943655d7
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-01 23:00:00
+    value: 3225.6
+  - id: 33d96d77-0e9f-4117-94d9-2ff7b0d2308b
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 00:00:00
+    value: 3444.0
+  - id: 41a40d04-9392-491e-93bb-b79ccd6b1ff3
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 01:00:00
+    value: 2784.8
+  - id: 0489aff9-c1cd-4e4c-9b8f-39b01670e72e
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 02:00:00
+    value: 2940.6
+  - id: 1c317ae2-d461-4dc2-8e9a-bb2476be44f5
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 03:00:00
+    value: 3459.6
+  - id: ecdfb411-bca9-4457-a331-6e98a1ec30f5
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 04:00:00
+    value: 2667.6
+  - id: 35b5588f-b715-4bf2-afb8-883bca99aaee
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 05:00:00
+    value: 2665.6
+  - id: 95144d06-994f-4ef0-96d6-64578ff2e1fa
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 06:00:00
+    value: 3372.8
+  - id: 06bd032a-49d2-42f0-adde-1374be650c71
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 07:00:00
+    value: 3157.8
+  - id: e70a2a63-9859-4a3c-92d3-c75eb8081a73
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 08:00:00
+    value: 3672.0
+  - id: 1f7433b1-a8a0-4fa9-9f0e-4a29ae7c5d4b
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 09:00:00
+    value: 3773.7
+  - id: 11ea156d-4118-4607-9cf5-4b211ce5fa93
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 10:00:00
+    value: 3074.5
+  - id: f2007d87-604d-4a8d-831a-8494555f2176
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 11:00:00
+    value: 3538.0
+  - id: 3621d311-7d62-4e64-a20e-662bd50a35ae
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 12:00:00
+    value: 3477.6
+  - id: afb54b5c-3d0f-43cf-afd1-c48359961c0c
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 13:00:00
+    value: 3328.0
+  - id: 5c047646-ce48-4376-bee9-11607a28f093
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 14:00:00
+    value: 3294.4
+  - id: 2b89cd2d-f26b-4c7d-ae42-d041deb64848
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 15:00:00
+    value: 3692.0
+  - id: 96c7365a-50b8-4345-a7ba-6c212398d91a
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 16:00:00
+    value: 3685.6
+  - id: 3d1ad939-e5ad-41b1-8361-0ce38a7bc762
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 17:00:00
+    value: 3075.3
+  - id: 9cfdb920-6e60-4c00-9077-f53bc84681e6
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 18:00:00
+    value: 2860.0
+  - id: 72e658d7-312c-4d7b-ab50-37729d5accea
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 19:00:00
+    value: 3345.3
+  - id: 18e80e08-389f-49c8-b9c4-091f5f41483a
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 20:00:00
+    value: 3169.4
+  - id: 6a1fd772-407a-4aa7-9771-3ab56939c3c1
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 21:00:00
+    value: 3731.0
+  - id: f335758c-e8bd-4be8-ba14-b524e02be533
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 22:00:00
+    value: 3381.0
+  - id: b8c8b405-b34a-4255-82fc-fc9ea18e205b
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-02 23:00:00
+    value: 2838.0
+  - id: 6eb180f1-27c7-49e5-af38-86067e501197
+    label: energy_spend
+    meter_id: c8d6bd83-db1e-46f6-82bc-2f1adb0e6bad
+    timestamp: 2020-08-03 00:00:00
+    value: 3679.2
+  cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa:
+  - id: 6c18182d-5105-4fd3-944f-c2dd30a846b4
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 00:00:00
+    value: 3398.4
+  - id: 44bf5b01-8467-4349-8265-2a89318657a8
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 01:00:00
+    value: 3042.0
+  - id: b8921792-9e3f-4d26-9af9-923579631a6c
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 02:00:00
+    value: 3244.5
+  - id: 6d307fd2-3ea1-4361-9bb2-0a88ea253f2b
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 03:00:00
+    value: 3829.5
+  - id: d9bbe280-921c-4bb0-88df-7305bf6adf1c
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 04:00:00
+    value: 3107.6
+  - id: 40d244e7-3843-47ce-9313-6416d17ad801
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 05:00:00
+    value: 2901.8999999999996
+  - id: 22be8187-ce04-4412-9ff1-ee1069599ace
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 06:00:00
+    value: 3932.9
+  - id: aa7cfe16-1d8c-4039-94ab-f68f46c71ad7
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 07:00:00
+    value: 2335.0
+  - id: a23012df-915e-470c-a01f-5a2a2bbf3f07
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 08:00:00
+    value: 3009.0
+  - id: 5017e768-c359-4a91-ad49-3d084ac61364
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 09:00:00
+    value: 2856.0
+  - id: afdc0c26-3688-423f-a47d-b98ee7565bed
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 10:00:00
+    value: 3767.4
+  - id: c2f0f357-324b-4f62-911b-2c9661f0853a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 11:00:00
+    value: 4074.0
+  - id: 40d2cdd0-3644-4f2b-a5ea-80c7cd86e552
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 12:00:00
+    value: 3761.1
+  - id: 37b3f687-ee00-4866-b85e-9884abf02186
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 13:00:00
+    value: 2590.7999999999997
+  - id: 311e830f-a559-4af7-8674-da2c5f84c756
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 14:00:00
+    value: 2750.7
+  - id: ca065270-fdd9-41c7-a651-b1280e1d6251
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 15:00:00
+    value: 2759.1
+  - id: 95d5b3e6-6cea-479d-87c4-e3c97a4593b2
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 16:00:00
+    value: 3191.5
+  - id: cf2484f9-0e80-4cb0-9119-424035a95078
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 17:00:00
+    value: 2814.0
+  - id: 1a93fd49-0a20-402a-a9f7-e8f0de3d22b9
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 18:00:00
+    value: 3515.4
+  - id: 90f40419-db32-4828-9dd8-c94b06cfb721
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 19:00:00
+    value: 3292.2000000000003
+  - id: 436ca457-c035-4d13-b90a-1f1dfb626084
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 20:00:00
+    value: 2830.3999999999996
+  - id: 76e0ee28-23ca-41df-ad84-ef9bbe8d7837
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 21:00:00
+    value: 2944.5
+  - id: 93458ad5-acbb-4992-88ab-c82f774da216
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 22:00:00
+    value: 3137.2000000000003
+  - id: 75626e01-525f-4c20-8329-506b381b08fb
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-01 23:00:00
+    value: 2698.8
+  - id: 5e84eda2-b91b-470b-a124-479b0e475198
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 00:00:00
+    value: 3772.1
+  - id: 668dff94-61bb-4b5a-b591-7a48843ee74a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 01:00:00
+    value: 2730.0
+  - id: 71adc1d0-5685-48f3-a216-4c4f8d28b407
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 02:00:00
+    value: 3090.0
+  - id: 4bd80ac5-485e-4187-b7cf-b477ac3b7374
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 03:00:00
+    value: 2898.0
+  - id: f741c70a-c2da-4a4e-8d84-163e8288da9a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 04:00:00
+    value: 3808.2
+  - id: c9560c0a-6fd3-4173-9782-e59cb2ee060b
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 05:00:00
+    value: 3060.0
+  - id: 2151d38b-9a80-4f65-86d5-d0bfc61beed3
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 06:00:00
+    value: 3850.0
+  - id: 800f49f0-346a-4684-acf6-c5caaa0e2fbf
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 07:00:00
+    value: 2865.5
+  - id: 291cf7ca-2f8b-463e-aa7e-db1fb7841631
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 08:00:00
+    value: 2692.4
+  - id: f3cde220-4c47-4a87-8af4-71b6e527ef8a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 09:00:00
+    value: 2892.8
+  - id: be8d7ea8-95dd-43e8-8637-f6abe1ca54e6
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 10:00:00
+    value: 2983.5
+  - id: 59737762-7664-4164-bced-4981c328d807
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 11:00:00
+    value: 3828.0
+  - id: 39f16d43-0b67-4486-8f3c-1a4fedba5ea2
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 12:00:00
+    value: 3508.7999999999997
+  - id: e484b0af-b8d2-46e0-9d5f-bc99e27f00cc
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 13:00:00
+    value: 3792.2000000000003
+  - id: f194972b-e285-4056-827e-cb6e015199ec
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 14:00:00
+    value: 2544.8999999999996
+  - id: d2d90179-94ad-4c90-8d0c-45550f6dfee9
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 15:00:00
+    value: 2734.7999999999997
+  - id: 461ccbd5-e911-4a41-b0ca-a115b4e149b3
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 16:00:00
+    value: 3340.8
+  - id: 6c9a9af4-ece4-4bf1-b4c7-76d47ca5a893
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 17:00:00
+    value: 2438.8
+  - id: c2f88cfd-ce09-48ea-b802-4d9fc5679ee3
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 18:00:00
+    value: 3006.0
+  - id: c375280a-9214-4740-8c03-83ea85c2967b
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 19:00:00
+    value: 2961.0
+  - id: 07514877-aec3-4bc9-99dc-029c5c660f51
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 20:00:00
+    value: 3656.3999999999996
+  - id: 43b46f95-bc66-4155-b48e-b0fe9f1e752c
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 21:00:00
+    value: 3836.4
+  - id: eb1a1fb3-6533-4d1c-bbbe-a6e61b165a1a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 22:00:00
+    value: 3412.2
+  - id: 3f4801b9-da98-4ed5-af6d-adab8bfb2d9a
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-02 23:00:00
+    value: 3874.2
+  - id: 78981949-7131-4bf9-896c-cd8f9187d4a3
+    label: energy_spend
+    meter_id: cdcdd013-f5c0-4d8b-a4aa-f3d040928cfa
+    timestamp: 2020-08-03 00:00:00
+    value: 2976.7999999999997
+  d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05:
+  - id: 0e316b52-131d-4c00-a740-d7cb865b8c14
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 00:00:00
+    value: 3078.4
+  - id: 92292917-2cc8-4aa4-a1db-cc931aa8f2fe
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 01:00:00
+    value: 3367.0
+  - id: 187a494d-91fd-4e27-b774-397b3f761261
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 02:00:00
+    value: 2969.7000000000003
+  - id: 777878a7-f912-4d7a-905b-6e31d574ad83
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 03:00:00
+    value: 3391.6
+  - id: 4d6e0c32-4827-43c3-8fe8-0ae22cf1a4be
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 04:00:00
+    value: 3236.4
+  - id: 06057b5c-a2ce-4d8d-b3d6-87a15c33d9db
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 05:00:00
+    value: 2761.0
+  - id: 4ea9435e-4ce6-45d0-a261-b9f6cf75c714
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 06:00:00
+    value: 2988.4
+  - id: eebf032e-4152-4b60-b183-d291886e9a2e
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 07:00:00
+    value: 2886.6
+  - id: 614d14da-3c78-4731-9df6-fae3d5dfc16b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 08:00:00
+    value: 3324.0
+  - id: cf4fc4fa-9f7a-4315-a679-5cee6983ddd7
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 09:00:00
+    value: 2480.4
+  - id: 9211f7de-4d81-466c-a26a-6f67eb3e9eae
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 10:00:00
+    value: 3457.2000000000003
+  - id: de3ce8da-002b-46c1-b99b-f6b109b5c45c
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 11:00:00
+    value: 3253.7999999999997
+  - id: 008aa50f-7bda-4bba-a114-698813702f6b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 12:00:00
+    value: 3192.0
+  - id: 9920dc08-5475-4735-bd38-2220caf0a6ce
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 13:00:00
+    value: 2697.0
+  - id: bf4dc470-dd75-4bc4-a4cb-bfffb1da15d9
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 14:00:00
+    value: 3497.4
+  - id: df239fb4-ac80-4646-b7b2-c570eaa2284d
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 15:00:00
+    value: 2703.0
+  - id: 59362346-28f3-4245-bcbf-06143ac7a071
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 16:00:00
+    value: 3583.6
+  - id: e1415e05-6751-42b1-8ce0-f03da5d6d6a6
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 17:00:00
+    value: 3149.6
+  - id: 4a4ed248-7cf3-4297-8a2f-bdae760461e5
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 18:00:00
+    value: 3222.0
+  - id: dbb6390a-e7a7-4f19-8e9d-eee5ce6e15e2
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 19:00:00
+    value: 3276.0
+  - id: 16a43cf8-915d-4c2a-999d-6f411d026bd9
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 20:00:00
+    value: 3971.2
+  - id: 77fb480f-b692-4847-8d77-c43d23153c99
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 21:00:00
+    value: 2615.2
+  - id: 1fed2bf2-0690-4eff-85c0-27d47471e065
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 22:00:00
+    value: 3597.9
+  - id: f42e7260-35c5-480f-8b81-99abac054c22
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-01 23:00:00
+    value: 3232.0
+  - id: a60b808b-a10b-408d-ba0f-40250f4fc6e3
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 00:00:00
+    value: 3710.7
+  - id: b1f05cbe-6e09-4c4d-a1bf-fb151772d3a5
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 01:00:00
+    value: 2845.8
+  - id: e3ae7f63-5bd6-461b-aaf9-f09ace8ee979
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 02:00:00
+    value: 3718.4
+  - id: 22990d96-5400-4afa-b95e-013fd21108e5
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 03:00:00
+    value: 3024.0
+  - id: 5b1485e7-d04c-4325-a029-7747ecaab692
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 04:00:00
+    value: 3463.8
+  - id: 98d3f661-b4e2-453f-9688-bd41ad3644cf
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 05:00:00
+    value: 3354.3999999999996
+  - id: 3e51a99f-c5de-4dae-bf55-63177937bdc7
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 06:00:00
+    value: 3140.5
+  - id: 4ad12276-775d-4b82-b667-8802e513a395
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 07:00:00
+    value: 2699.2
+  - id: 478e3300-4f9f-4c30-9eeb-96436492471c
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 08:00:00
+    value: 2856.7
+  - id: cde53a9d-f20c-4550-9098-7cf9549a486b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 09:00:00
+    value: 2873.3
+  - id: 4ef41221-a0d5-407f-a74c-4eab90e5de86
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 10:00:00
+    value: 3049.2
+  - id: 99d33bcf-2395-4c25-9f83-b67440e42044
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 11:00:00
+    value: 2575.5
+  - id: e807876e-ae00-4204-8a59-eb56b48491a9
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 12:00:00
+    value: 3035.1
+  - id: 4349dd4b-2f1b-498a-bf93-f92cb8b53e7c
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 13:00:00
+    value: 2626.3999999999996
+  - id: 71f532e8-cfe2-49b9-9e51-07f8767afc2b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 14:00:00
+    value: 3472.0
+  - id: 524a3bad-ee27-4404-b892-360ac592cb04
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 15:00:00
+    value: 3263.5
+  - id: 7737574f-bb50-442d-b422-c7d53d6264ad
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 16:00:00
+    value: 3125.7000000000003
+  - id: 53ab11ad-a9c2-45d2-a0d0-7bd9d6ff5647
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 17:00:00
+    value: 3042.6
+  - id: b0170f66-f4ed-458d-814b-ef7a09b7513b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 18:00:00
+    value: 3249.9
+  - id: 4d1f9903-eaa2-4548-916c-6fc8fefaade5
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 19:00:00
+    value: 3268.6000000000004
+  - id: c7fb5c20-4ec3-4230-af6a-b99e03f69617
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 20:00:00
+    value: 3251.2000000000003
+  - id: aaf38247-118e-4385-896f-5649e5557033
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 21:00:00
+    value: 3239.1
+  - id: ea970bb2-87b3-4e27-9c9a-5f4c0e29bda9
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 22:00:00
+    value: 3220.5
+  - id: e85aecd3-cbb2-4392-80b2-92223d984d3b
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-02 23:00:00
+    value: 3896.4
+  - id: c3368167-9ccc-4c6a-b16d-eb243e4e5df1
+    label: energy_spend
+    meter_id: d0ac1776-8eb0-48fc-8ed2-a9ea967a0b05
+    timestamp: 2020-08-03 00:00:00
+    value: 3155.2
+  d3d72eba-0d66-48b7-b0f8-ce44e3665d53:
+  - id: e012d9e2-f10c-406d-b077-15378de3deec
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 00:00:00
+    value: 2830.5
+  - id: 5cbcc3cc-5a1d-46a9-a4da-19223efb9be9
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 01:00:00
+    value: 3461.2
+  - id: 10699bae-46e5-41d4-bc10-e3d9379f26e4
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 02:00:00
+    value: 2527.2000000000003
+  - id: ca60544a-6f58-44ae-91d8-9f6ac5c4f9dd
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 03:00:00
+    value: 3451.5
+  - id: 79a67694-e514-4e8b-9795-ff3652e35403
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 04:00:00
+    value: 2985.0
+  - id: 7fd7a343-e50a-41dd-b8f8-2d7e547f3a11
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 05:00:00
+    value: 3861.0
+  - id: 252b86ec-02c8-438b-a01d-8ebbd348122f
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 06:00:00
+    value: 3380.0
+  - id: 86567473-1d58-448a-912d-46f39f6d9176
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 07:00:00
+    value: 3085.6
+  - id: 66c90391-0e0b-436a-9a7f-a7dd99c0dec1
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 08:00:00
+    value: 2737.6000000000004
+  - id: 929f2227-614a-477b-a6a1-2ba546d89009
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 09:00:00
+    value: 3528.0
+  - id: ab7f897c-41c2-4f9f-b03c-c0421fe25dc5
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 10:00:00
+    value: 3814.7999999999997
+  - id: 7117dbab-25b3-4e61-8999-f44ded88a6f7
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 11:00:00
+    value: 2596.0
+  - id: 3d21512b-f3d5-4644-b283-46ec53e8e6ec
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 12:00:00
+    value: 3973.1
+  - id: a8528290-256a-4c84-b80e-47968810101a
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 13:00:00
+    value: 2836.5
+  - id: 8a123743-16fb-4816-9705-d42fd6f64441
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 14:00:00
+    value: 3309.9
+  - id: 1373b6bf-cc8b-439b-b7cb-9df87ff9633e
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 15:00:00
+    value: 3068.2999999999997
+  - id: 48a15c1e-267f-471d-96f3-e925eb25c83b
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 16:00:00
+    value: 2828.8
+  - id: 2a1bc7d3-8ec7-4733-9500-cd283de09c78
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 17:00:00
+    value: 3270.0
+  - id: cf2f16f7-64ed-4502-8c91-1e2dd50a2b08
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 18:00:00
+    value: 2958.3
+  - id: 6ab6c412-e0b1-43c9-96c1-6e8bcc655252
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 19:00:00
+    value: 3301.2
+  - id: 5b973c99-4645-43f5-96e6-a5f9e8833878
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 20:00:00
+    value: 2402.1
+  - id: 8aa22d67-fa15-4604-b908-2df14362f721
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 21:00:00
+    value: 3249.0
+  - id: 725d2656-7700-4d37-8d23-1a40262dbdd6
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 22:00:00
+    value: 3200.0
+  - id: 74e2071d-ab2e-4322-a652-37e3678a8198
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-01 23:00:00
+    value: 3024.0
+  - id: 5f9be9aa-e674-4f05-a70f-8399a31cc7a2
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 00:00:00
+    value: 3762.0
+  - id: 84bb335c-2271-42e0-97a1-d7ba4abc2f00
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 01:00:00
+    value: 3278.0
+  - id: 48f94dc0-ab79-4a78-b347-e650fdc7da64
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 02:00:00
+    value: 2522.7999999999997
+  - id: e07d6b75-684c-4f08-b153-3a3c6a95727e
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 03:00:00
+    value: 2650.5
+  - id: 8347b819-1cee-468b-9b78-d6672a642621
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 04:00:00
+    value: 3416.1000000000004
+  - id: 1a2b9a94-00e5-494f-b285-e3f74f780899
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 05:00:00
+    value: 3953.7000000000003
+  - id: 0753500f-5b74-4684-bb74-a28145e0c4a5
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 06:00:00
+    value: 3127.0
+  - id: a71b9eef-a233-41bc-9ceb-75785b98dc4c
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 07:00:00
+    value: 2581.6
+  - id: e6d13550-18db-442a-a07c-12dc0a1729cf
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 08:00:00
+    value: 3395.7
+  - id: 9c0fef25-ed93-46c4-8ea9-fa08c6a94c24
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 09:00:00
+    value: 3288.6
+  - id: 221cc541-c700-4720-81bc-2d639381ff03
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 10:00:00
+    value: 3584.0
+  - id: 105cbb6d-83bc-4cac-b4d2-1983dd163417
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 11:00:00
+    value: 3326.3999999999996
+  - id: 94f69fd9-c82f-401d-a35f-055044974446
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 12:00:00
+    value: 3750.5
+  - id: 5524d62f-da69-4a5d-bcae-076214194b73
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 13:00:00
+    value: 3139.5
+  - id: 119f93bf-b05f-43ec-bfb0-9433b918a623
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 14:00:00
+    value: 3581.5
+  - id: e0e90ceb-b2f0-46b1-b306-9cee715e20a0
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 15:00:00
+    value: 3203.4
+  - id: 2b063084-26e5-4b9f-8fbf-779cd8163ed9
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 16:00:00
+    value: 3828.0
+  - id: 2cafab91-0d93-4ba4-99eb-364a85a9db40
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 17:00:00
+    value: 3933.6
+  - id: 10988daf-3a2f-42e0-a784-3698a127012c
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 18:00:00
+    value: 2916.0
+  - id: 87f6ff8b-5671-46d7-9d0a-c46ae268600f
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 19:00:00
+    value: 2574.0
+  - id: f6d4f3ce-05c9-44ac-a7f0-146c333dce5b
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 20:00:00
+    value: 2612.9
+  - id: 1c515082-956a-41d0-9919-ec34b8ea0373
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 21:00:00
+    value: 2965.0
+  - id: 8edcd774-19fd-415e-9128-39331d5471e6
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 22:00:00
+    value: 3036.8
+  - id: 0b1a8bb5-8eb7-406d-8577-27b3bd5a9621
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-02 23:00:00
+    value: 3015.0
+  - id: aaef8295-d072-442a-a470-70cfa52804b4
+    label: energy_spend
+    meter_id: d3d72eba-0d66-48b7-b0f8-ce44e3665d53
+    timestamp: 2020-08-03 00:00:00
+    value: 2604.9
+  e2fdd5e7-6e5e-4750-8cde-c133f11b9424:
+  - id: b2162706-dd95-49d4-914e-5ed5e1bd76c5
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 00:00:00
+    value: 3256.5
+  - id: b9be4798-ba22-4c02-a943-6cdcced71fe9
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 01:00:00
+    value: 2860.8999999999996
+  - id: e6907a74-1b2e-4807-accb-a50ed634db0c
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 02:00:00
+    value: 3795.0
+  - id: 337bd6e0-70de-4ba2-aeb2-0a76ff0a7a37
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 03:00:00
+    value: 3220.0
+  - id: 7109ea09-fc63-4e75-82c8-6f67112042c7
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 04:00:00
+    value: 2459.6
+  - id: fca392ae-9874-411d-9024-9157c34f5f91
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 05:00:00
+    value: 3074.0
+  - id: b4d8917a-4b06-4d77-bc01-d9980415f335
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 06:00:00
+    value: 3234.0
+  - id: b592394d-b331-4f90-bc78-dc11d0209c50
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 07:00:00
+    value: 2697.8999999999996
+  - id: 2f86d495-b1a4-4b3e-a770-992d5d4aeee6
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 08:00:00
+    value: 3042.0
+  - id: 4f62d7da-d164-42fa-a281-41078540e2c3
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 09:00:00
+    value: 3521.6
+  - id: 5ba3d935-e69f-4bc4-8d81-4b581bc9c0c5
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 10:00:00
+    value: 3139.5
+  - id: 87bfaefb-e27c-4a9d-a58a-4ef17dcc1c73
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 11:00:00
+    value: 3611.3
+  - id: 09b49fb2-ee9b-405c-a74f-3ab1a7404150
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 12:00:00
+    value: 3137.6
+  - id: 3c0f8d88-eaa3-4008-b11a-eecfc345255e
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 13:00:00
+    value: 3078.4
+  - id: 059064cd-2ecf-4482-af08-9eb137c5cabf
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 14:00:00
+    value: 2405.0
+  - id: e19cdc2b-6a06-44aa-8a10-f9210dbd67a7
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 15:00:00
+    value: 2808.0
+  - id: f732a1fe-9cee-4251-82e5-a4d6d125a8f6
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 16:00:00
+    value: 3456.0
+  - id: ef272abe-9c21-4c03-858a-719ae2960781
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 17:00:00
+    value: 3588.0
+  - id: 1c141ee5-39e8-4839-8c1a-870dd469cb5a
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 18:00:00
+    value: 2714.4
+  - id: 5865cd8d-6168-4db7-aac6-c0dedbc2d76a
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 19:00:00
+    value: 3705.3
+  - id: 1d8f1605-4ca8-4f29-9416-1d8e22b97c75
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 20:00:00
+    value: 2732.4
+  - id: 897329f2-8b12-4525-b62c-dba2ae9c8a94
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 21:00:00
+    value: 3422.0
+  - id: 2485868c-7455-4cee-8465-5539d6fe5afe
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 22:00:00
+    value: 3912.8
+  - id: c35dd69d-1e72-4975-8735-b7d31a782f18
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-01 23:00:00
+    value: 3892.0
+  - id: 5a7f1960-563e-4479-9086-9f01244dab96
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 00:00:00
+    value: 2760.0
+  - id: 6b4a5f71-8e17-49a6-9497-9e628d90a1ca
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 01:00:00
+    value: 2871.0
+  - id: a1ea4d0a-bbd1-45da-842c-0942009c0aec
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 02:00:00
+    value: 2511.6
+  - id: 11a36786-66ca-4cfe-9c9f-7a426e7c78c0
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 03:00:00
+    value: 3757.0
+  - id: 633cd059-942d-4b41-b3e2-5453412789e1
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 04:00:00
+    value: 3571.2000000000003
+  - id: 14f2aa03-6ee3-4e64-82ab-9564509f1105
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 05:00:00
+    value: 2618.0
+  - id: f361a0d5-5ffe-4110-80d2-117ba5dbd3d3
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 06:00:00
+    value: 2501.6
+  - id: 2cedaec1-0e5b-4773-a5d9-6db309b7fa39
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 07:00:00
+    value: 2648.7999999999997
+  - id: af73dbd2-223b-4ca4-975c-2e2f91e8b4c7
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 08:00:00
+    value: 2793.7999999999997
+  - id: 2e42ea3f-289e-4f56-9c91-4c8848271ec1
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 09:00:00
+    value: 3001.6
+  - id: 515b9f9f-0810-4d19-80d7-6d19a8843356
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 10:00:00
+    value: 3174.9
+  - id: 2e01a567-fd17-45e6-8f80-f85551826083
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 11:00:00
+    value: 3234.0
+  - id: 5bb92389-b30d-4e4a-9c0f-0abff585bc45
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 12:00:00
+    value: 3217.5
+  - id: 361c5908-f14d-47ca-b834-94009c88722a
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 13:00:00
+    value: 2994.5
+  - id: 27ed9960-41ba-491a-baeb-9fd8d2e6563f
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 14:00:00
+    value: 3568.5
+  - id: e882dea0-015a-47b9-8bd2-d691c5a004ef
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 15:00:00
+    value: 3027.2000000000003
+  - id: 020e2919-7cbd-459a-b13a-158310121370
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 16:00:00
+    value: 3104.0
+  - id: 368e8d9b-7a9b-4364-a03d-e7467d5eebe2
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 17:00:00
+    value: 3808.0
+  - id: 6c2cf697-2b99-49eb-bd8f-0e08b3d4a9bf
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 18:00:00
+    value: 3175.2
+  - id: 290c2799-e4fa-44d4-9f24-409303cfa9e9
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 19:00:00
+    value: 2883.0
+  - id: a4dc52bf-38a2-4369-ba41-5b17a4da2003
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 20:00:00
+    value: 2916.0
+  - id: 0ab96a2f-85f7-45b7-87d7-5aa30debc369
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 21:00:00
+    value: 3354.0
+  - id: abcd88dd-175c-4716-816a-3a471306a51d
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 22:00:00
+    value: 3003.0
+  - id: f2949f74-0424-4b98-9427-d0fc162f143c
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-02 23:00:00
+    value: 3288.9
+  - id: cf2ba309-ecfc-4a34-a029-981f372e631b
+    label: energy_spend
+    meter_id: e2fdd5e7-6e5e-4750-8cde-c133f11b9424
+    timestamp: 2020-08-03 00:00:00
+    value: 2632.0
+  e720e3d7-eb19-43a4-a4d5-972af7617d41:
+  - id: 220a7dae-3afc-4e9c-a46f-a3d4b890d5c3
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 00:00:00
+    value: 3333.5
+  - id: 896fd382-572e-4f8f-baa7-e0d3584120da
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 01:00:00
+    value: 2641.6
+  - id: 17c94d5f-635d-4032-b48f-c86721974e7c
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 02:00:00
+    value: 3463.8
+  - id: 8e1f5c12-5239-404b-8313-bc50dd3a48c4
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 03:00:00
+    value: 2745.4
+  - id: eb08e462-e387-4e93-b212-d02ffa299f23
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 04:00:00
+    value: 3979.8
+  - id: d795a42b-846b-4c45-931a-896442373726
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 05:00:00
+    value: 3529.5
+  - id: 96029714-a168-48f7-a22a-bb0c46baa9c5
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 06:00:00
+    value: 2905.6000000000004
+  - id: 1e878df3-986e-40e3-ae68-a5248eaeaf43
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 07:00:00
+    value: 2660.0
+  - id: 1b750572-d6d0-4e42-99dd-4c96d51348a6
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 08:00:00
+    value: 2485.6
+  - id: 0596f884-7aa9-44d2-9cc3-f208f5f3e310
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 09:00:00
+    value: 2814.3
+  - id: 8af0b664-8dd9-4d29-9e85-11adb1bc0bf1
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 10:00:00
+    value: 2976.0
+  - id: 5074d054-b695-49c5-8815-c2eb5893db03
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 11:00:00
+    value: 2775.9
+  - id: feea0a36-11ec-4ccd-9727-86b31112e7b2
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 12:00:00
+    value: 3267.4
+  - id: fc743668-cab3-4563-ad15-82c135968638
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 13:00:00
+    value: 2689.5
+  - id: 987e112f-df9a-440c-9290-59c22e6a8dfc
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 14:00:00
+    value: 2834.0
+  - id: f0a8b09f-a848-42ba-879b-30042fe50fa8
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 15:00:00
+    value: 3182.4
+  - id: d6c10c4c-2f91-47bf-840b-ee82ef012c3c
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 16:00:00
+    value: 2786.4
+  - id: 01708e32-8eeb-4807-8ef2-b90c1336b493
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 17:00:00
+    value: 3186.0
+  - id: 29edd68a-8b24-4189-bcd4-1df81eee3ce3
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 18:00:00
+    value: 3024.0
+  - id: 0f9315b6-d17e-40e0-ab4e-853f04dcfb03
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 19:00:00
+    value: 3000.4
+  - id: e250951e-b4e6-48ed-b4de-de682f7dcf7d
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 20:00:00
+    value: 2932.8
+  - id: 5c4142e2-59b3-4d81-873c-c2f9631fa3dd
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 21:00:00
+    value: 3577.8
+  - id: dec7616c-b47b-4bba-a0c7-cd9c0f42c6fb
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 22:00:00
+    value: 3834.6
+  - id: 112236ca-4c2a-4ec4-8c01-bb7055a22f22
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-01 23:00:00
+    value: 3464.7999999999997
+  - id: eb6ca6a6-5f6a-40bf-86c2-cdf7e2f123b4
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 00:00:00
+    value: 2496.2999999999997
+  - id: 3fa78330-ba2a-4360-81fe-869229a1a666
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 01:00:00
+    value: 3360.3
+  - id: 5310af3f-9857-443f-8f8e-567c22527bba
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 02:00:00
+    value: 2929.5
+  - id: 31d0b53c-4638-4db7-ad90-f85f8d037d8c
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 03:00:00
+    value: 2855.7000000000003
+  - id: eab709d9-86f6-4ae6-9ea1-a22012e103eb
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 04:00:00
+    value: 3636.3
+  - id: 8fe31a1d-5388-48fb-a54c-2952ccec5334
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 05:00:00
+    value: 3292.2000000000003
+  - id: b94324ad-6003-44c6-919f-b76727ec3982
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 06:00:00
+    value: 2968.0
+  - id: c170395a-3325-4a4e-b4dc-f76b18a2030f
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 07:00:00
+    value: 2644.8
+  - id: c0099d45-7a47-48a5-8ff7-f7b331522c93
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 08:00:00
+    value: 2854.7999999999997
+  - id: e1fa291e-0415-4330-90f9-80b657f41a28
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 09:00:00
+    value: 3498.0
+  - id: 07ab8982-bc10-4f41-94bd-77c10ac1b7ae
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 10:00:00
+    value: 2766.5
+  - id: edc506e7-16bf-4a1d-bf69-8389c7e00821
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 11:00:00
+    value: 3051.0
+  - id: f3647ed2-ba7a-4a5c-9362-23604a3bb5d4
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 12:00:00
+    value: 2493.8999999999996
+  - id: 4f07651b-e72c-4045-a311-4844bd350bcb
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 13:00:00
+    value: 2955.9
+  - id: 70dc8bb2-7bff-4de9-86c0-73403eeaa944
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 14:00:00
+    value: 3398.4
+  - id: 25b2178e-84e7-4bc0-b3e4-a408b28b2521
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 15:00:00
+    value: 3748.7999999999997
+  - id: a0fc91ce-ba5d-46de-8bba-bd91d4100841
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 16:00:00
+    value: 3601.0
+  - id: 12a8dda6-349f-464f-a688-b6f5f0a284bb
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 17:00:00
+    value: 3528.0
+  - id: f6302e6e-5cef-4b29-8e86-0207f0b502ae
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 18:00:00
+    value: 3553.5
+  - id: f01575a9-e7fb-4af0-843e-2fcf777b4243
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 19:00:00
+    value: 2765.0
+  - id: 5824bbe0-3a45-4bf2-b883-307e89ae3040
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 20:00:00
+    value: 2521.8
+  - id: 47e597f6-1a77-4eb4-882b-2152c50ad93a
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 21:00:00
+    value: 3187.7999999999997
+  - id: f9e45adf-9416-4118-af13-a6678b8b4f5e
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 22:00:00
+    value: 3250.4
+  - id: 900c5148-8db0-45a5-88ee-2f0d3c5b2120
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-02 23:00:00
+    value: 3456.0
+  - id: 4dbb4923-1e50-4687-bc5b-4aaf3fdf9630
+    label: energy_spend
+    meter_id: e720e3d7-eb19-43a4-a4d5-972af7617d41
+    timestamp: 2020-08-03 00:00:00
+    value: 3325.8
+  ee2dc071-c04d-4929-bd4e-ea4b8fb33258:
+  - id: c3670073-6147-4940-8ee5-d394d53b21c9
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 00:00:00
+    value: 2325.0
+  - id: d341a71c-ea36-48f3-8c13-a0c3dfc336de
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 01:00:00
+    value: 3912.8
+  - id: 030b6c9c-baa4-45cc-87af-9c076ae1cc3a
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 02:00:00
+    value: 2485.6
+  - id: c20e427f-e17f-459d-9153-f0fc095647cf
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 03:00:00
+    value: 3047.5
+  - id: 1dd87747-9104-4c89-bdd0-b49b5287427e
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 04:00:00
+    value: 3913.0
+  - id: 8af153c4-16bd-40e1-935d-a92f2ed07086
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 05:00:00
+    value: 2830.2
+  - id: 4d5d98ae-5bb2-4fa4-b297-5e17c1e9296c
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 06:00:00
+    value: 3222.7000000000003
+  - id: ae848222-7586-45c3-8e8b-3f8e0c8e9f35
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 07:00:00
+    value: 2402.4
+  - id: eda66edb-94da-49ce-8b57-bc4c52ad60f4
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 08:00:00
+    value: 3074.3999999999996
+  - id: 219867c5-26f5-459f-86eb-c3ed9b11fe09
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 09:00:00
+    value: 2469.7999999999997
+  - id: 36b21648-3761-4cbc-b802-e7206e69baeb
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 10:00:00
+    value: 2879.2000000000003
+  - id: 11639fe8-32fd-4706-8877-888248b4aecd
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 11:00:00
+    value: 3220.0
+  - id: fdf27c12-9d82-4a2e-b28d-5f2ba52ba187
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 12:00:00
+    value: 2988.0
+  - id: 9eca6e3a-f2ee-4ba5-86ac-205eacbd4965
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 13:00:00
+    value: 3540.6
+  - id: fbf61128-9f0a-4e6e-9c6a-151f2535737a
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 14:00:00
+    value: 3746.7000000000003
+  - id: 7664b364-9044-4055-a91d-ec58a331e844
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 15:00:00
+    value: 3565.0
+  - id: 0771f1d5-5d01-4ea8-95ab-33c95b241eb3
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 16:00:00
+    value: 3451.7999999999997
+  - id: 23b3886e-1c77-4755-8900-7e14529c8cec
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 17:00:00
+    value: 2679.6
+  - id: 69cace13-c59d-4bcd-b621-62cb0d4cd85e
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 18:00:00
+    value: 3220.7999999999997
+  - id: 5294a1f2-04c2-41b4-ad64-873405e5899a
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 19:00:00
+    value: 3616.0
+  - id: 49d9c071-311a-4f4d-b925-254db6265460
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 20:00:00
+    value: 3093.2999999999997
+  - id: f52587c4-9203-4f74-95d6-20ac0c747b36
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 21:00:00
+    value: 2958.0
+  - id: 6e479fbb-adc2-495e-a389-d4a42c70ab9c
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 22:00:00
+    value: 3294.6
+  - id: 674dd3fe-396c-4294-9431-5d677a964533
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-01 23:00:00
+    value: 3288.6
+  - id: e16764f9-7aa2-453e-afa5-0c18a554f6aa
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 00:00:00
+    value: 3289.7000000000003
+  - id: 05c64141-2a90-49af-ac95-108abf78fbce
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 01:00:00
+    value: 3702.6
+  - id: 55332320-0a37-450b-b386-34fcc67565f8
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 02:00:00
+    value: 3224.0
+  - id: 8d49a703-31f6-421e-a728-d005c30773d2
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 03:00:00
+    value: 2848.7
+  - id: bb29f4d1-c7ae-45cc-ab9e-02400eed8620
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 04:00:00
+    value: 2924.1
+  - id: 13b8a99c-3144-426c-94af-4dcf6a0b678e
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 05:00:00
+    value: 2742.0
+  - id: 7542c9d7-a021-4156-8622-fc2da160efad
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 06:00:00
+    value: 3451.5
+  - id: a28291a5-85e0-4b26-8f6e-b2b45ad8feb9
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 07:00:00
+    value: 3427.9
+  - id: 6da30c82-23a4-4a3e-afbb-d8c347e01dbf
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 08:00:00
+    value: 3591.0
+  - id: 21028124-5766-4259-9446-d72109b532c6
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 09:00:00
+    value: 3916.7999999999997
+  - id: abc26726-ecaf-46e4-bca4-eed90738fcd3
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 10:00:00
+    value: 2295.0
+  - id: ef5e5576-80f8-41c4-90f7-7aa46e07ed4f
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 11:00:00
+    value: 3296.0
+  - id: 86e9923a-0682-4872-ae4c-6426fef54cd7
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 12:00:00
+    value: 3174.0
+  - id: 170bb53a-82df-4dd8-bf2c-fdbc03a2464d
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 13:00:00
+    value: 3434.2999999999997
+  - id: 619db4c6-d6be-43c3-b4c6-4763d9429e55
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 14:00:00
+    value: 2524.5
+  - id: 3a268cd9-954f-4a59-9d3c-582e7742e7de
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 15:00:00
+    value: 3065.6000000000004
+  - id: 39bd141f-7d58-4b6d-bd7a-176463ae9e12
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 16:00:00
+    value: 3705.3
+  - id: cfc5cfb1-bb3a-4b97-b8dd-4a8008a27cfb
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 17:00:00
+    value: 3016.2
+  - id: d16068e1-bbf0-48a3-b74b-4abe5e7453cc
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 18:00:00
+    value: 2687.1
+  - id: 7b6b19b8-0306-4d0e-a929-4acc596b327b
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 19:00:00
+    value: 2741.7000000000003
+  - id: bf76586e-7de9-480c-91a3-8f52e055e00a
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 20:00:00
+    value: 3062.8
+  - id: 40e7c061-4fd3-48de-b49f-bab6471c5df3
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 21:00:00
+    value: 3051.0
+  - id: 9e7ad5c2-0864-4a1e-b06c-6a40cd48feea
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 22:00:00
+    value: 2957.5
+  - id: d3a6829b-61db-4608-9848-9804cba6d4fd
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-02 23:00:00
+    value: 2736.0
+  - id: 9c0aecf3-9895-45ee-afd7-ca6b529e4842
+    label: energy_spend
+    meter_id: ee2dc071-c04d-4929-bd4e-ea4b8fb33258
+    timestamp: 2020-08-03 00:00:00
+    value: 3433.8
